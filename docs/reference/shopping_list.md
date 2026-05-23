@@ -53,6 +53,7 @@ Compact, printable tackle reference organized by target species. Each line: **it
 **Tools**
 - Forceps / hemostats — barbless hook removal
 - Line snips on a zinger — knots, retying
+- Stainless steel fishing scissors — cut braid cleanly, trim soft plastics to size, snip bait
 
 **Yellow perch crossover** — same rod/reel/line works; just add smaller hooks (#6–10) and a slip bobber + jig + worm rig.
 
