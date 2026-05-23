@@ -1,0 +1,44 @@
+site_name: Pacific Northwest Field Manual
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue grey
+    accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - search.suggest
+nav:
+  - Home: index.md
+  - Highway 2 Corridor:
+    - Area Overview: 1_highway_2/Overview.md
+    - Barclay Lake (Trout): 1_highway_2/barclay_lake.md
+    - Lake Valhalla (Cutthroat): 1_highway_2/lake_valhalla.md
+    - Lake Serene (Trout): 1_highway_2/lake_serene.md
+    - Wallace Lake (Trout/Camp): 1_highway_2/wallace_lake.md
+  - Mountain Loop Highway:
+    - Boardman Lake: 2_mountain_loop/boardman_lake.md
+    - Ashland Lakes: 2_mountain_loop/ashland_lakes.md
+  - North Cascades / Hwy 20:
+    - Area Overview: 4_north_cascades/Overview.md
+    - Rainy Lake (Cutthroat): 4_north_cascades/rainy_lake.md
+    - Cutthroat Lake (Cutthroat): 4_north_cascades/cutthroat_lake.md
+    - Hidden Lake (Strenuous): 4_north_cascades/hidden_lake.md
+  - Eastern Washington:
+    - Wenas Wildlife Area: 3_eastern_wa/wenas_wildlife.md
+    - Manastash Ridge: 3_eastern_wa/manastash_ridge.md
+  - Saltwater:
+    - Area Overview: 5_saltwater/Overview.md
+    - Edmonds Pier (MA 9): 5_saltwater/edmonds_pier.md
+    - Deception Pass (MA 8-1): 5_saltwater/deception_pass.md
+  - Methow Valley:
+    - Area Overview: 6_methow/Overview.md
+    - Patterson Lake: 6_methow/patterson_lake.md
+    - Pearrygin Lake SP: 6_methow/pearrygin_lake.md
+    - Methow Wildlife Area: 6_methow/methow_wildlife_area.md
+    - Methow River: 6_methow/methow_river.md
+  - Reference:
+    - Alpine Trout Loadout: reference/alpine_loadout.md
+    - Shopping List (by Species): reference/shopping_list.md
+    - Dark Sky / Astronomy Sites: reference/dark_sky_sites.md
