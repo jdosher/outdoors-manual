@@ -21,5 +21,15 @@ Expansive arid shrub-steppe: rolling sage hills, deep rimrock canyons, grassy fl
 | **Camping** | Dispersed primitive sites / green-dot road pullouts |
 | **Regulations** | WDFW Wildlife Area rules |
 
+## Dogless Hunting Note
+
+**Wenas is the preferred WA destination for pure dogless chukar/quail hunting** vs alternatives like the [Methow Wildlife Area](../6_methow/methow_wildlife_area.md):
+
+* Higher chukar density in classic rimrock-and-cheatgrass terrain — and the steep rocky country is where dogs add the least value anyway.
+* Open shrub-steppe makes downed-bird recovery realistic without a retriever.
+* Quail concentrate at water/cover edges that are mappable in advance.
+* Closer drive from Shoreline (~2.5–3 hrs) than Methow (~4–5 hrs).
+* Methow has the species-diversity edge (forest grouse, Hun partridge) but for *pure* dogless chukar/quail focus, drive here.
+
 ## Field Notes
 * _Late season — south-facing rimrock melts off first; birds hold tight to rock for warmth._

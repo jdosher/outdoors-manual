@@ -30,7 +30,7 @@ The Methow Wildlife Area is the **headline upland bird destination in WA within 
     - **Mourning Dove:** Sept opener; sit water and gravel roads in the early morning.
     - **Turkey:** Spring and fall seasons; forest edges and meadow margins.
 * **Vehicle / Trailer Access:** Multiple gravel/forest road systems accessing each unit. Most accommodate 2WD in dry conditions; some unit access roads get rough.
-* **Hunt-with-dog factor:** This is dog country — long walks across open terrain, classic pointer / flusher work.
+* **Hunt-with-dog factor:** This is dog country — long walks across open terrain, classic pointer / flusher work. **For pure dogless chukar/quail hunting, [Wenas](../3_eastern_wa/wenas_wildlife.md) is denser and easier;** Methow's edge is species diversity and the trifecta-trip combo, not raw bird density per mile walked.
 
 ## Logistics
 
