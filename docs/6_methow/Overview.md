@@ -12,6 +12,15 @@ From Shoreline, the Methow is **~4–5 hours** via Hwy 20 (open ~Memorial Day th
 | **Hunting** | [Methow Wildlife Area](methow_wildlife_area.md) — 35,300 acres of shrub-steppe and ponderosa: chukar, California quail, gray partridge, forest grouse, mourning dove, turkey, deer |
 | **Astronomy** | Bortle 2–3 throughout the valley. Pearrygin and Patterson lakes are darker than the Winthrop town site. See [Dark Sky Sites](../reference/dark_sky_sites.md). |
 
+## The Methow Lake Circuit
+
+The lowland lakes around Winthrop have distinct fisheries — best treated as a rotation rather than a "pick one" decision. Base-camp at Pearrygin and rotate through the others.
+
+* **[Pearrygin Lake](pearrygin_lake.md)** — heavily stocked rainbow + brown + kokanee. The "wake up and fish from camp" lake. Easy, family-friendly, fish-from-shore.
+* **[Patterson Lake](patterson_lake.md)** — diverse fishery (rainbow, kokanee, perch, both bass species). 7 mi SW of Winthrop. Different bag-of-tricks day.
+* **Big Twin Lake** — **selective gear only (barbless, no bait)**. Rainbows 10–18" with occasional larger carryover. The "trophy/quality" water of the cluster; bring spinners/spoons/flies, leave the PowerBait in camp. ~15 min from Pearrygin. Winterkill events in 2016–18 dented the carryover population, so check current reports.
+* **Davis & Campbell Lakes** — unusual **September 1 opener** with April catch-and-release; otherwise closed. Useful when the standard season winds down and you're in the valley for fall hunting/astronomy.
+
 ## Seasonality
 
 * **Spring (Apr–May):** Lake fishing wakes up — Pearrygin and Patterson start hot in late April. River trout closed (opens June 1).
