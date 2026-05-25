@@ -49,6 +49,8 @@ Compact, printable tackle reference organized by target species. Each line: **it
 
 **Terminal**
 - Barrel swivels size 12 — bubble rigs, quick leader swaps
+- Single Siwash hooks (open-eye), sizes #4–#8 — replace trebles on Rooster Tails / Mepps / Kastmasters for selective-gear water (Beckler, SF Sky tribs). Mustad 9510XS or Owner Cutting Point are the standards.
+- Split-ring pliers (small) — open the split ring on a lure to swap treble → siwash cleanly
 
 **Tools**
 - Forceps / hemostats — barbless hook removal
