@@ -30,7 +30,7 @@ Compact, printable tackle reference organized by target species. Each line: **it
 - Small treble hooks #14–16 — for dough on the sliding-sinker rig
 - Sliding egg sinkers, ¼–½ oz — sliding-sinker dough rig
 - Small barrel swivels size 12 — stop the sliding sinker
-- Split shot BB–#4 assortment — adjustable casting/sink weight
+- Tin split shot, **BB** (non-toxic, ~100/pack) — workhorse single size; stack 2–3 for more weight. Treat as single-use (tin fractures when re-opened).
 - Small slip bobbers — PowerBait deeper than ~4 ft
 - PowerBait chartreuse — second color beyond rainbow
 
