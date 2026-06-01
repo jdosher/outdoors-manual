@@ -39,6 +39,12 @@ nav:
     - Pearrygin Lake SP: 6_methow/pearrygin_lake.md
     - Methow Wildlife Area: 6_methow/methow_wildlife_area.md
     - Methow River: 6_methow/methow_river.md
+  - Cle Elum / Salmon La Sac / Teanaway:
+    - Area Overview: 7_cle_elum_teanaway/Overview.md
+    - Cooper Lake: 7_cle_elum_teanaway/cooper_lake.md
+    - Pete Lake: 7_cle_elum_teanaway/pete_lake.md
+    - Cle Elum River: 7_cle_elum_teanaway/cle_elum_river.md
+    - Teanaway Community Forest: 7_cle_elum_teanaway/teanaway_community_forest.md
   - Reference:
     - Alpine Trout Loadout: reference/alpine_loadout.md
     - Shopping List (by Species): reference/shopping_list.md
