@@ -16,9 +16,7 @@ Hidden Lake is the strenuous, scenic option — a hike-first, fish-second outing
 
 ## Location
 
-<a href="https://www.google.com/maps/search/?api=1&query=Hidden+Lake+Lookout+Marblemount+WA" target="_blank" rel="noopener">
-  <iframe src="https://maps.google.com/maps?q=Hidden+Lake+Lookout+Marblemount+WA&z=12&output=embed" width="100%" height="280" style="border:0; pointer-events:none;" loading="lazy"></iframe>
-</a>
+<iframe src="https://maps.google.com/maps?q=Hidden+Lake+Lookout+Marblemount+WA&z=12&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Hidden+Lake+Lookout+Marblemount+WA)
 

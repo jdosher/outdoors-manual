@@ -13,9 +13,7 @@ WDFW manages four small-to-medium freestone tributaries of the South Fork Skykom
 
 ## Location
 
-<a href="https://www.google.com/maps/search/?api=1&query=Beckler+River+Skykomish+WA" target="_blank" rel="noopener">
-  <iframe src="https://maps.google.com/maps?q=Beckler+River+Skykomish+WA&z=11&output=embed" width="100%" height="280" style="border:0; pointer-events:none;" loading="lazy"></iframe>
-</a>
+<iframe src="https://maps.google.com/maps?q=Beckler+River+Skykomish+WA&z=11&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Beckler+River+Skykomish+WA)
 

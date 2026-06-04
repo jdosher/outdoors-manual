@@ -14,9 +14,7 @@ Pete Lake is the quintessential easy-hike-in alpine trout lake — 4 miles of ne
 
 ## Location
 
-<a href="https://www.google.com/maps/search/?api=1&query=Pete+Lake+Cooper+River+Cle+Elum+WA" target="_blank" rel="noopener">
-  <iframe src="https://maps.google.com/maps?q=Pete+Lake+Cooper+River+Cle+Elum+WA&z=12&output=embed" width="100%" height="280" style="border:0; pointer-events:none;" loading="lazy"></iframe>
-</a>
+<iframe src="https://maps.google.com/maps?q=Pete+Lake+Cooper+River+Cle+Elum+WA&z=12&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Pete+Lake+Cooper+River+Cle+Elum+WA)
 

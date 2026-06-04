@@ -16,9 +16,7 @@ Cutthroat Lake sits at 4,935 ft in a granite cirque directly below Cutthroat Pea
 
 ## Location
 
-<a href="https://www.google.com/maps/search/?api=1&query=Cutthroat+Lake+Washington+Pass+WA" target="_blank" rel="noopener">
-  <iframe src="https://maps.google.com/maps?q=Cutthroat+Lake+Washington+Pass+WA&z=12&output=embed" width="100%" height="280" style="border:0; pointer-events:none;" loading="lazy"></iframe>
-</a>
+<iframe src="https://maps.google.com/maps?q=Cutthroat+Lake+Washington+Pass+WA&z=12&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Cutthroat+Lake+Washington+Pass+WA)
 

@@ -14,9 +14,7 @@ The Methow is a beautiful, classically braided eastside river — gravel-and-cob
 
 ## Location
 
-<a href="https://www.google.com/maps/search/?api=1&query=Methow+River+Winthrop+WA" target="_blank" rel="noopener">
-  <iframe src="https://maps.google.com/maps?q=Methow+River+Winthrop+WA&z=11&output=embed" width="100%" height="280" style="border:0; pointer-events:none;" loading="lazy"></iframe>
-</a>
+<iframe src="https://maps.google.com/maps?q=Methow+River+Winthrop+WA&z=11&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Methow+River+Winthrop+WA)
 

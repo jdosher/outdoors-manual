@@ -14,9 +14,7 @@ The headline difference from typical USFS dispersed-camping country: **no disper
 
 ## Location
 
-<a href="https://www.google.com/maps/search/?api=1&query=Teanaway+Community+Forest+WA" target="_blank" rel="noopener">
-  <iframe src="https://maps.google.com/maps?q=Teanaway+Community+Forest+WA&z=11&output=embed" width="100%" height="280" style="border:0; pointer-events:none;" loading="lazy"></iframe>
-</a>
+<iframe src="https://maps.google.com/maps?q=Teanaway+Community+Forest+WA&z=11&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Teanaway+Community+Forest+WA)
 

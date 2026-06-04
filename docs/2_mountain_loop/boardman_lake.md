@@ -13,9 +13,7 @@ Boardman sits in a cirque on the north slope of Bald Mountain, ringed by old-gro
 
 ## Location
 
-<a href="https://www.google.com/maps/search/?api=1&query=Boardman+Lake+Mountain+Loop+Highway+WA" target="_blank" rel="noopener">
-  <iframe src="https://maps.google.com/maps?q=Boardman+Lake+Mountain+Loop+Highway+WA&z=12&output=embed" width="100%" height="280" style="border:0; pointer-events:none;" loading="lazy"></iframe>
-</a>
+<iframe src="https://maps.google.com/maps?q=Boardman+Lake+Mountain+Loop+Highway+WA&z=12&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Boardman+Lake+Mountain+Loop+Highway+WA)
 

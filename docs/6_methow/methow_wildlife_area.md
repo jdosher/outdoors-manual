@@ -12,9 +12,7 @@ The Methow Wildlife Area is the **headline upland bird destination in WA within 
 
 ## Location
 
-<a href="https://www.google.com/maps/search/?api=1&query=Methow+Wildlife+Area+Twisp+WA" target="_blank" rel="noopener">
-  <iframe src="https://maps.google.com/maps?q=Methow+Wildlife+Area+Twisp+WA&z=11&output=embed" width="100%" height="280" style="border:0; pointer-events:none;" loading="lazy"></iframe>
-</a>
+<iframe src="https://maps.google.com/maps?q=Methow+Wildlife+Area+Twisp+WA&z=11&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Methow+Wildlife+Area+Twisp+WA)
 

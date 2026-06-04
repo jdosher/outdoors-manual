@@ -13,9 +13,7 @@ Valhalla sits just below the crest of the Cascades near Stevens Pass, a true sub
 
 ## Location
 
-<a href="https://www.google.com/maps/search/?api=1&query=Lake+Valhalla+Stevens+Pass+WA" target="_blank" rel="noopener">
-  <iframe src="https://maps.google.com/maps?q=Lake+Valhalla+Stevens+Pass+WA&z=12&output=embed" width="100%" height="280" style="border:0; pointer-events:none;" loading="lazy"></iframe>
-</a>
+<iframe src="https://maps.google.com/maps?q=Lake+Valhalla+Stevens+Pass+WA&z=12&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Lake+Valhalla+Stevens+Pass+WA)
 
