@@ -33,9 +33,15 @@ Personal default: **use non-toxic everywhere, even where lead is still legal.** 
     - **7/8 oz** = ~160 pellets. Standard hunting spec; more margin if your gun is patterning loose.
     - **For quail at 15–25 yards, both work.** Many quail-specific hunters prefer the 3/4 oz for the lighter recoil.
 
-**Specific picks (any of these in stock works):**
-* Federal Speed-Shok Steel 20g 2 3/4" #6 — common hunting line
-* Winchester Super-Target Steel 20g 2 3/4" 3/4 oz #6 — target-labeled but same function
+**Picked load: Winchester Xpert Upland Steel 20g 2 3/4" 3/4 oz #6.**
+
+* Lower velocity (~1300–1350 fps) than Federal Upland (~1500+ fps) → **less recoil through the 6 lb Bobwhite SxS** — pleasant across a full hunt's worth of shots
+* ~$3/box cheaper than Federal Upland
+* Plenty of energy at 15–25 yard quail range
+* Skip Federal Speed-Shok (labeled "waterfowl," not upland-tuned)
+
+**Other acceptable in-stock alternatives:**
+* Federal Upland Steel 20g 2 3/4" 3/4 oz #6 — if Xpert is out; hotter load = more recoil
 * Kent Fasteel 20g 2 3/4" #6
 * Remington Sport Loads 20g 2 3/4" 3/4 oz #6
 
