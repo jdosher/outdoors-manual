@@ -8,7 +8,9 @@ darksky: Bortle 3 (open shrub-steppe, wide horizons)
 
 # Desert Wildlife Area Unit
 
-The **Desert Wildlife Area is the better primary base for a 26' trailer + fall quail hunt** in the Columbia Basin. 35,100 acres west of Moses Lake, mixed shrub-steppe / wetland / pond / desert upland habitat, managed jointly by WDFW under a MOU with the US Bureau of Reclamation. **Unlike Quincy Lakes Unit, there's no seasonal vehicle access closure** — you can drive in to hunt during the entire quail season.
+The **Desert Wildlife Area is the better primary base for a 26' trailer + fall quail hunt** in the Columbia Basin. ~35,100 acres **south of I-90, just west of Potholes Reservoir** in Grant County. Mixed shrub-steppe / wetland / pond / desert upland habitat, managed jointly by WDFW under a MOU with the US Bureau of Reclamation. **Unlike Quincy Lakes Unit, there's no seasonal vehicle access closure** — you can drive in to hunt during the entire quail season.
+
+**Don't confuse with Winchester Wasteway / Winchester Reservoir** — those are *north* of I-90 and a different area; the Desert WA Winchester Game Reserve (closed to hunting, see below) is named separately and is within the DWA unit south of I-90.
 
 WDFW explicitly lists pheasant, chukar, Hungarian partridge, and quail as huntable species. Grant County is one of the top quail-producing counties in WA, and District 5 biologists call California quail the most abundant and popular upland game bird in the district. **This is real, current bird country**, not a recovering burn zone.
 
@@ -23,9 +25,11 @@ Two areas within the Desert Wildlife Area are **closed to all hunting and trappi
 
 ## Location
 
-<iframe src="https://maps.google.com/maps?q=Desert+Wildlife+Area+Moses+Lake+WA&z=11&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?q=Potholes+Reservoir+Grant+County+WA&z=11&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
 
-[Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Desert+Wildlife+Area+Moses+Lake+WA)
+[Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Potholes+Reservoir+Grant+County+WA)
+
+(Map centered on Potholes Reservoir; the Desert Wildlife Area sits just west of the reservoir, south of I-90.)
 
 **WDFW page:** [Desert Wildlife Area Unit →](https://wdfw.wa.gov/places-to-go/wildlife-areas/desert-wildlife-area-unit)
 
