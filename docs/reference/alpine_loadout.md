@@ -15,9 +15,11 @@ Compact kit for Cascade alpine cutthroat / brook / rainbow. Target box: **KastKi
 * Leader: 4 lb fluorocarbon
 
 **Second rig (wife's):**
-* Rod: Shakespeare (older, handed down; specs TBD)
+* Cheap Shakespeare 5.5' combo (rod + reel as a unit, handed down)
 * Line: 6 lb mono (currently loaded)
-* Use case: partner trips, lake fishing alongside the primary rig
+* Use case: partner trips, casual lake fishing alongside the primary rig
+* **Where it shines:** PowerBait + sliding sinker rig for stocked lakes (Patterson, Pearrygin, Cooper, Big Twin); bluegill / sunfish in summer at Potholes; kids' first-fish setup. Short rod = good for tight-bank casting near docks and brush.
+* **Where it doesn't:** distance casting (no leverage), big-fish fights (under-powered for walleye / mackinaw / lowland triploids), nymph-style drift work. Don't push it past its lane.
 
 **Shared:**
 * Lures: Rooster Tails (assorted)
