@@ -1,0 +1,82 @@
+---
+title: Umtanum Creek / Yakima River Canyon
+region: Eastern Washington / Yakima Canyon
+activity: Fall Quail Hunting, Upland Bird, River Fishing (C&R), Camping, Hiking
+target_species: California Quail, Chukar, Gray (Hungarian) Partridge, Grouse, Yakima River Trout (C&R)
+darksky: Bortle 3 (canyon walls limit horizon but the basin floor opens up)
+---
+
+# Umtanum Creek / Yakima River Canyon
+
+The Yakima River Canyon along Hwy 821 between Ellensburg and Yakima is the **classic Western Washington-accessible fall quail hunt** — and the Umtanum Creek drainage is the headliner. The canyon is in the **Wenas Wildlife Area** (managed by WDFW), but it has its own distinct character vs the upper Wenas plateau: deep basalt walls, the Yakima River running through, and **riparian riparian-sage transitions where California quail concentrate.**
+
+The killer combo here is **Big Pines Campground** (BLM, riverside) as your base camp + the **Umtanum Creek Trail** (across the river footbridge from Umtanum Recreation Site) as your morning hunt + the Yakima River itself as your afternoon catch-and-release blue-ribbon trout fishery. It's one of the few places in WA where you can hunt quail at dawn, fish for trout in a world-class river an hour later, and watch bighorn sheep on the canyon walls between, all from one camp.
+
+## The Fall Quail Hunt — Why This Area
+
+* **Season opens Sept. 1** for upland birds (verify current WDFW game bird pamphlet).
+* **California quail concentrate at water-and-cover edges** along Umtanum Creek as it flows down to the Yakima — exactly the riparian-sage transition zones quail love.
+* **Less competition** than Wenas plateau hunts because most hunters drive past the canyon and continue up to Wenas Road.
+* **Bonus species:** chukar and gray (Hungarian) partridge in the rocky slopes above the canyon floor, grouse higher up.
+* **Combo with Yakima River trout** (C&R, selective gear blue-ribbon water) makes this a 2-target trip from one camp.
+
+## Location
+
+<iframe src="https://maps.google.com/maps?q=Umtanum+Recreation+Site+Yakima+Canyon+WA&z=12&output=embed" width="100%" height="280" style="border:0;" loading="lazy"></iframe>
+
+[Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Umtanum+Recreation+Site+Yakima+Canyon+WA)
+
+**WTA trail page:** [Umtanum Creek Canyon →](https://www.wta.org/go-hiking/hikes/umtanum-creek-canyon)
+**BLM page:** [Big Pines Campground →](https://www.blm.gov/visit/big-pines)
+**WDFW page:** [Wenas Wildlife Area →](https://wdfw.wa.gov/places-to-go/wildlife-areas/wenas-wildlife-area) (Umtanum is part of this unit)
+
+## Camping — Big Pines (the call)
+
+**Big Pines Recreation Area Campground** (BLM, Hwy 821, milepost 10):
+* **42 sites** — BLM's largest in the Yakima Canyon
+* **Right on the Yakima River** — true riverside camping
+* **$15/night, $5 day use**
+* **Reservable May 1 – Sept 30; FCFS Oct 1 – April 30** — meaning **the entire core fall hunting season is FCFS,** no reservation gauntlet
+* Vault toilets, fire rings (BLM-approved metal only), picnic tables
+* **No potable water, no hookups** — bring your own water
+* Non-motorized river put-in/takeout at the campground
+* 14-day stay limit
+
+**Alternative canyon camps** along Hwy 821 (all BLM, all on the river):
+* **Umtanum Recreation Site** — smaller, closer to the Umtanum Creek footbridge (the actual hunting access). Day-use leaning but overnight allowed.
+* **Lmuma Creek Recreation Site** — smaller still, quieter
+* **Roza Recreation Site** — closer to Yakima end of canyon
+
+**Why Big Pines wins:** size (more chance of available sites even FCFS), real campground feel, and milepost 10 puts you central in the canyon — short drive to Umtanum trailhead for morning hunt, short drive to other access points.
+
+## Scouting Report
+
+### The Umtanum Creek Trail (the actual hunt)
+* **Access:** Park at **Umtanum Recreation Site** on Hwy 821 (~milepost 16.5). Footbridge over the Yakima River; trail begins on the west side.
+* **The hunt:** Trail follows Umtanum Creek up through shrub-steppe and riparian cover. Quail hold in the brushy creek margins and where sage meets riparian. Work both sides of the creek; cover-edge concentrations are where the birds are.
+* **Higher up:** As the trail climbs, terrain transitions to dry rocky slopes — that's chukar/Hun country. Steeper, harder hunting.
+
+### Yakima Canyon habitat layers
+* **Canyon floor / riparian:** California quail, mule deer at dawn/dusk
+* **Mid-slope shrub-steppe:** Hun partridge, more quail, gray partridge
+* **Upper rocky slopes / rimrock:** Chukar
+* **Bighorn sheep** visible on the canyon walls — protected, not hunted; a feature of the place
+
+### Combo: Yakima River Trout (C&R)
+* **World-class blue-ribbon water** for rainbow + cutthroat
+* **Selective gear, catch-and-release only** for trout
+* Access at any BLM site (Big Pines, Umtanum, Lmuma, Roza)
+* Best months: April–October for trout; fall (Sept–Oct) overlaps perfectly with quail season
+
+## Logistics
+
+| Attribute | Detail |
+| :--- | :--- |
+| **Hunting Pass** | Discover Pass on Wenas Wildlife Area (or Vehicle Access Pass with hunt/fish license); BLM lands don't require it but it doesn't hurt |
+| **License** | WA small game license for upland birds; WA fishing license for the river |
+| **Camping** | Big Pines $15/night, FCFS in fall — see above |
+| **Best season** | **Sept – Oct for the combo** (quail open Sept 1, river still warm and fishing, weather pleasant) |
+| **Access** | I-90 east to Ellensburg Exit 109, south on Hwy 821 / Canyon Rd. About 2 hrs from Shoreline. |
+
+## Field Notes
+* _Track which mile-marker pullout produced what species, which canyon side held birds, water flow and clarity of the Yakima for fishing days, and big-game / bighorn sightings._

@@ -31,5 +31,8 @@ Expansive arid shrub-steppe: rolling sage hills, deep rimrock canyons, grassy fl
 * Closer drive from Shoreline (~2.5–3 hrs) than Methow (~4–5 hrs).
 * Methow has the species-diversity edge (forest grouse, Hun partridge) but for *pure* dogless chukar/quail focus, drive here.
 
+## Related
+* For the **Yakima River Canyon** (southern edge of the wildlife area, riverside camping + Umtanum Creek trail fall quail hunt), see [Umtanum / Yakima Canyon](umtanum_yakima_canyon.md).
+
 ## Field Notes
 * _Late season — south-facing rimrock melts off first; birds hold tight to rock for warmth._
