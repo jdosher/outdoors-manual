@@ -29,12 +29,17 @@ Penalty for lead in required areas: **$1,000 mandatory fine + 2-year loss of sma
 ### California / Valley Quail
 * **Range:** 15–25 yard flushes typical
 * **What to look for:** pattern density at close range beats raw energy
-* **Shot size:** #6 or #7 steel, OR #7 or #8 bismuth
+* **Shot size:** **#7.5 or #8** (the common-shelf sizes) for either steel or bismuth
 * **Payload:** 7/8 oz to 1 oz
 * **Specific picks:**
-    - **Federal Speed-Shok Steel 20g 7/8 oz #6 or #7** ($20–25) — workhorse
-    - **Boss Bismuth 20g 7/8 oz #7 or #8** ($35–45) — premium, lead-like
+    - **Boss Bismuth 20g 7/8 oz #7.5** ($35–45) — **the classic quail size**, lead-like behavior, premium pick
+    - **Federal Speed-Shok Steel 20g 7/8 oz #7 or smaller** ($20–25) — workhorse but check stock; non-toxic #7 is genuinely scarce on shelves
+    - **Federal Bismuth 20g 7/8 oz #7.5** — alternative bismuth source
     - **Hevi-Metal Pheasant 20g 7/8 oz** ($30–35) — multi-species option
+
+**Availability note:** non-toxic shells commonly stock **#4, #5, #6, #7.5, #8** — #7 is uncommon in the non-toxic world (it's a lead-load convention that didn't carry over). Plan around #7.5 and #8 for the small-shot end.
+
+**Why #7.5 specifically for quail:** more energy per pellet than #8, more pellets per ounce than #6 — it's the classic quail balance many upland hunters use.
 
 ### Chukar
 * **Range:** 25–40 yards typical (open canyon country)
@@ -59,13 +64,13 @@ Penalty for lead in required areas: **$1,000 mandatory fine + 2-year loss of sma
 ### Forest Grouse (Ruffed, Dusky/Blue, Spruce)
 * **Range:** 15–25 yards in timber; close flushes
 * **What to look for:** dense pattern at close range; small shot doesn't damage the meat as much
-* **Shot size:** #6, #7, or #8 — smaller than chukar
-    - Ruffed grouse in tight cover: #7 or #8
-    - Blue/dusky in more open subalpine: #6 or #7
+* **Shot size:** #6, #7.5, or #8 (skip #7 — uncommon in non-toxic)
+    - Ruffed grouse in tight cover: #7.5 or #8
+    - Blue/dusky in more open subalpine: #6 or #7.5
 * **Material:** **Bismuth is the smart pick** — open chokes are common in grouse cover, and bismuth doesn't damage meat at close range
 * **Specific picks:**
-    - **Boss Bismuth 20g 7/8 oz #7** — close-cover ruffed
-    - **Federal Speed-Shok Steel 20g 7/8 oz #6** — workable; if you can find smaller steel sizes, use them
+    - **Boss Bismuth 20g 7/8 oz #7.5** — close-cover ruffed; the classic grouse size
+    - **Federal Speed-Shok Steel 20g 7/8 oz #6** — workable cheap option
     - **Hevi-Metal 20g 7/8 oz** — middle-ground
 * **Non-toxic not required** in most forest grouse habitat (USFS / DNR land), but using bismuth here standardizes your kit
 
