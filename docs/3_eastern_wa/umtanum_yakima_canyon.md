@@ -8,17 +8,37 @@ darksky: Bortle 3 (canyon walls limit horizon but the basin floor opens up)
 
 # Umtanum Creek / Yakima River Canyon
 
-The Yakima River Canyon along Hwy 821 between Ellensburg and Yakima is the **classic Western Washington-accessible fall quail hunt** — and the Umtanum Creek drainage is the headliner. The canyon is in the **Wenas Wildlife Area** (managed by WDFW), but it has its own distinct character vs the upper Wenas plateau: deep basalt walls, the Yakima River running through, and **riparian riparian-sage transitions where California quail concentrate.**
+The Yakima River Canyon along Hwy 821 between Ellensburg and Yakima is a scenic eastside trip destination — **Yakima River blue-ribbon trout fishing, bighorn sheep on the canyon walls, the Umtanum Creek Trail, and Big Pines BLM camping** all in one corridor. The canyon is part of the **Wenas Wildlife Area** managed by WDFW.
 
-The killer combo here is **Big Pines Campground** (BLM, riverside) as your base camp + the **Umtanum Creek Trail** (across the river footbridge from Umtanum Recreation Site) as your morning hunt + the Yakima River itself as your afternoon catch-and-release blue-ribbon trout fishery. It's one of the few places in WA where you can hunt quail at dawn, fish for trout in a world-class river an hour later, and watch bighorn sheep on the canyon walls between, all from one camp.
+**⚠ Quail-hunting reality check (current, 2025–26):** This page was originally framed as a "classic fall quail hunt." Subsequent verification against WDFW District 8 prospects (Aug 2025) shows that framing is wrong for current conditions — see [Current Population Status](#current-population-status) below. **As of 2026, treat the canyon as a fishing/scenery destination with bonus bird opportunity, not a quail-focused trip.** For an actual quail-focused trip, see [Better Alternatives](#better-alternatives) section.
 
-## The Fall Quail Hunt — Why This Area
+## Current Population Status
 
-* **WA California (Valley) Quail season:** typically **mid-October through mid-January** (2025–26 was Oct 18 – Jan 19). Verify exact dates in the current WDFW Game Bird pamphlet — these shift year to year. **Sept 1 is the general upland date but quail specifically opens later.**
-* **California quail concentrate at water-and-cover edges** along Umtanum Creek as it flows down to the Yakima — exactly the riparian-sage transition zones quail love.
-* **Less competition** than Wenas plateau hunts because most hunters drive past the canyon and continue up to Wenas Road.
-* **Bonus species:** chukar and gray (Hungarian) partridge in the rocky slopes above the canyon floor, grouse higher up.
-* **Combo with Yakima River trout** (C&R, selective gear blue-ribbon water) makes this a 2-target trip from one camp — though by late October river fishing slows.
+**The reality, per WDFW District 8 Hunting Prospects (Aug 2025), verbatim:**
+
+> "Most of the quail habitat in the Wenas Wildlife Area has burned in recent years."
+>
+> "Quail in riparian draws surrounded by sagebrush are getting hard to find."
+>
+> "The best chance of finding good coveys will be near rivers and irrigated land."
+
+**2024 Black Canyon Fire — GMU 340 & 342 (Manastash and Umtanum):** burned **over 10,000 acres** of the Wenas Wildlife Area. Recovery on shrub-steppe / riparian habitat is multi-year; **the burned portions will not be productive quail habitat in 2026.**
+
+**Harvest trend:** District 8 quail harvest crashed in 2021 (lowest harvest ever recorded) and has stayed flat at that low level. Combined causes: deep snow 2016–17, drought 2020–22, annual fires.
+
+**Season dates** (verify current pamphlet):
+* California (Valley) Quail: typically mid-Oct – mid-Jan (2025–26 was Oct 18 – Jan 19), daily limit 3, possession 15.
+* Yakama Nation extended season Jan 1–15 in the lower Yakima Corridor: **10 daily / 30 possession** — see Yakama Nation note below.
+
+## Better Alternatives
+
+For a 2026 quail-focused trip with a real density of birds, the WDFW biologist explicitly recommends *away from Wenas/Umtanum*:
+
+1. **Yakama Nation lower Yakima River corridor** — *the* District 8 quail recommendation. Tribal permit required; call **509-865-5121 ext. 6307** for current rules. The extended Jan 1–15 season with 10-bird limit is the real prize.
+2. **Columbia Basin — Quincy + Desert Wildlife Areas (Grant County)** — WDFW's #2 quail county statewide, ~3–4 hrs from Shoreline. Agricultural / CRP / irrigation-ditch habitat unaffected by the Wenas fires. **The lower-risk pivot if Yakama Nation permits are too much hassle.**
+3. **Sunnyside-Snake River Wildlife Area** — public, but WDFW data: 87% hunters unsuccessful, 0.16 birds/day. A real option, but a poor one.
+
+**If you're already committed to the canyon for other reasons** (fishing, scenery, bighorn viewing, Big Pines camping), the bird opportunity here is now *bonus*, not headline. Don't drive 2.5 hours expecting steady covey flushes.
 
 ## Location
 

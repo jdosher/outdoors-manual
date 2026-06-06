@@ -21,6 +21,20 @@ Expansive arid shrub-steppe: rolling sage hills, deep rimrock canyons, grassy fl
 | **Camping** | Dispersed primitive sites / green-dot road pullouts |
 | **Regulations** | WDFW Wildlife Area rules |
 
+## ⚠ Current Population Status (2025–26)
+
+Per WDFW District 8 Hunting Prospects (Aug 2025):
+
+> "Most of the quail habitat in the Wenas Wildlife Area has burned in recent years."
+
+**2024 Black Canyon Fire** burned >10,000 acres in GMUs 340 (Manastash) and 342 (Umtanum). Quail recovery is multi-year. District 8 quail harvest has been at historic lows since 2021.
+
+**For 2026 quail-focused trips, WDFW recommends moving to:**
+1. **Yakama Nation lower Yakima River** (tribal permits — 509-865-5121 x6307; Jan 1–15 extended season w/ 10-bird limit is the prize)
+2. **Columbia Basin** (Quincy + Desert Wildlife Areas, Grant County) — #2 quail county statewide, fire-unaffected
+
+Chukar prospects on the rocky upper Wenas may still be reasonable (less burn-vulnerable habitat); see chukar/partridge sections of the District 8 prospects for current intel.
+
 ## Dogless Hunting Note
 
 **Wenas is the preferred WA destination for pure dogless chukar/quail hunting** vs alternatives like the [Methow Wildlife Area](../6_methow/methow_wildlife_area.md):
