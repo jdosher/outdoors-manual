@@ -9,18 +9,18 @@ Compact kit for Cascade alpine cutthroat / brook / rainbow. Target box: **KastKi
 
 ## Current Inventory (owned)
 * Rod: Fenwick 6.5' Light
-* Reel: Okuma 2500
-* Line: 6 lb mono (use as backing), 4 lb fluorocarbon (leader)
+* Reel: Okuma 2500, spooled with **6 lb hi-vis braid (loaded as mainline)** over 6 lb mono backing
+* Leader: 4 lb fluorocarbon
 * Lures: Rooster Tails (assorted)
 * Bait: PowerBait, rainbow
 * Scent: Pro-Cure Super Gel — Trophy Trout
 * Floats: small red/white snap-on bobbers (the spring style)
 
 ## Shopping List (gaps)
-* **6 lb hi-vis braid** — 150 yd spool (PowerPro or KastKing SuperPower); becomes mainline. Back the spool with existing 6 lb mono first.
 * **Mepps Aglia #1** — gold (different flash profile from Rooster Tails)
 * **Kastmaster spoon** — 1/8 oz silver (casts farther in wind, fishes deeper)
-* Optional second priority: Panther Martin 1/16 oz (yellow/red), casting bubble + a few small flies (Parachute Adams #14–16, olive woolly bugger), small spool of 8 lb fluoro for bigger-fish days.
+* **8 lb fluorocarbon leader** — small spool. Required for walleye trips (Potholes) and useful for Wallace mackinaw / lowland triploids. Swap to this leader, leave the 6 lb braid mainline as-is.
+* Optional second priority: Panther Martin 1/16 oz (yellow/red), casting bubble + a few small flies (Parachute Adams #14–16, olive woolly bugger).
 
 ## Curated Picks (the complete kit, by category)
 

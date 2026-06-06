@@ -100,6 +100,17 @@ Walleye are the marquee fall species at Potholes and worth learning — flaky wh
 * **Reel:** your Okuma 2500 works
 * **Line:** 10–15 lb braid mainline → 6–10 lb fluoro leader (clearer water = lighter leader)
 
+### Your existing rig for walleye (practical adaptation)
+
+Your current trout rig — **Fenwick 6.5' Light + Okuma 2500 + 6 lb hi-vis braid + 4 lb fluoro leader** — is **workable but not optimal** for walleye. The honest adaptation:
+
+* **Swap to 8 lb fluoro leader** for walleye trips. Same braid mainline, same rod/reel — just a heavier leader to handle walleye near structure (rocks, weeds, timber). 4 lb fluoro will break off on a hot fish in cover; 8 lb gives you a real shot.
+* **Match jig weight to rod:** stick with **1/16–1/8 oz jigheads** (your rod's sweet spot). Standard walleye sizing is 1/4 oz — castable on the Light rod but suboptimal.
+* **Accept the trade-off:** you'll land smaller walleye (14–20") just fine and feel every head shake. Big trophies (24"+) will be tense and you'll lose some — that's the cost of fishing under-rodded.
+* **Don't force it:** if you fall for walleye fishing, **upgrade later** to a 7' medium-power dedicated walleye rod (~$80–120). Keep the Fenwick Light for trout.
+
+The 8 lb fluoro is on the [shopping list](../reference/shopping_list.md) anyway (originally for Wallace mackinaw / lowland triploids) — same spool covers walleye trips.
+
 **Three shore-fishing techniques that actually work for a beginner:**
 
 1. **Jig + soft plastic minnow (the simplest reliable rig)**
