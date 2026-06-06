@@ -7,8 +7,8 @@ category: Reference / Gear
 
 ## Current Inventory
 
-* **Remington 870** (12 gauge, pump) — workhorse pump
-* **Mossberg 500** (12 gauge, pump) — secondary pump
+* **Remington 870** (12 gauge, pump) — **7.6 lbs** (measured)
+* **Mossberg 500** (12 gauge, pump) — **7.15 lbs** (measured)
 
 Both 12g pumps cover waterfowl, mixed-bag pheasant, and any high-shot-count work. They're heavy for all-day quail walking but reliable in any conditions.
 
@@ -90,13 +90,24 @@ Viable CZ options under this constraint: Bobwhite G2 (SxS), Drake (O/U), Mallard
 
 ### Decision after extractor filter
 
-The viable shortlist is now:
+The viable shortlist (with weight savings vs current 12g pumps):
 
-1. **TriStar Hunter EX LT** — lightest, ~$600–700, fits all-day-walking criteria best
-2. **CZ Drake** — ~$700–800, more refined feel, better QC reputation than TriStar
-3. **CZ Bobwhite G2** — if you want the SxS experience
-4. **Stoeger Condor I** — cheapest viable option at $559
-5. **TriStar Hunter EX** (standard) — middle ground between LT and Drake
+| Gun | Weight | Savings vs Mossberg 500 (7.15 lbs) | Savings vs Remington 870 (7.6 lbs) | Price |
+|---|---|---|---|---|
+| **TriStar Hunter EX LT** | **5.4 lbs** | **−1.75 lbs** | **−2.20 lbs** | ~$600–700 |
+| **CZ Bobwhite G2 (SxS)** | ~6.0 lbs | −1.15 lbs | −1.60 lbs | $700–800 |
+| **TriStar Hunter EX** (standard) | 6.3 lbs | −0.85 lbs | −1.30 lbs | $550–650 |
+| **CZ Drake (O/U)** | 6.5 lbs | −0.65 lbs | −1.10 lbs | $700–800 |
+| **Stoeger Condor I** | 6.9 lbs | −0.25 lbs | −0.70 lbs | $559 |
+
+**Reality of weight savings on the trail:** carrying ~2 lbs less for 5–6 hours of walking shrub-steppe is the difference between "tired but fine" and "wanting to shoot a 30-yard pheasant from a sitting position." For dogless walking trips this is the single biggest gear-comfort factor.
+
+**Honest decision after weight + extractor filter:**
+
+1. **TriStar Hunter EX LT** — best on-paper match (lightest + extractors + reasonable price). Accept TriStar QC variability and lighter felt-recoil.
+2. **CZ Drake** — give up 1.1 lbs vs the LT for better build reputation and refinement.
+3. **CZ Bobwhite G2** — SxS option that still saves 1.6 lbs vs the 870.
+4. **Stoeger Condor I** — $559 budget play but only saves 0.7 lbs vs the 870 — barely worth it for the upland-feel upgrade.
 
 ### Decision Framework (Updated)
 
