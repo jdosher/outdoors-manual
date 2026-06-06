@@ -14,11 +14,11 @@ The killer combo here is **Big Pines Campground** (BLM, riverside) as your base 
 
 ## The Fall Quail Hunt — Why This Area
 
-* **Season opens Sept. 1** for upland birds (verify current WDFW game bird pamphlet).
+* **WA California (Valley) Quail season:** typically **mid-October through mid-January** (2025–26 was Oct 18 – Jan 19). Verify exact dates in the current WDFW Game Bird pamphlet — these shift year to year. **Sept 1 is the general upland date but quail specifically opens later.**
 * **California quail concentrate at water-and-cover edges** along Umtanum Creek as it flows down to the Yakima — exactly the riparian-sage transition zones quail love.
 * **Less competition** than Wenas plateau hunts because most hunters drive past the canyon and continue up to Wenas Road.
 * **Bonus species:** chukar and gray (Hungarian) partridge in the rocky slopes above the canyon floor, grouse higher up.
-* **Combo with Yakima River trout** (C&R, selective gear blue-ribbon water) makes this a 2-target trip from one camp.
+* **Combo with Yakima River trout** (C&R, selective gear blue-ribbon water) makes this a 2-target trip from one camp — though by late October river fishing slows.
 
 ## Location
 
@@ -49,6 +49,20 @@ The killer combo here is **Big Pines Campground** (BLM, riverside) as your base 
 
 **Why Big Pines wins:** size (more chance of available sites even FCFS), real campground feel, and milepost 10 puts you central in the canyon — short drive to Umtanum trailhead for morning hunt, short drive to other access points.
 
+### What about Yakima Sportsman State Park?
+
+**Don't bother for the quail hunt.** It **closes Oct 1 through April 16** for the winter — that's the entire WA quail season. Yakima Sportsman is a summer (Apr 17 – Sept 30) camping option only. Useless for fall bird hunting trips. **For quail-season camping, BLM canyon sites + Wenas dispersed are your real options.**
+
+### Camping for the Quail Season (with a trailer)
+
+| Option | Hookups | 26' trailer fit | Quail-season status | Notes |
+|---|---|---|---|---|
+| **Big Pines (BLM)** | None | Verify per site | **Open all season, FCFS Oct 1+** | Riverside, central canyon |
+| **Umtanum / Lmuma / Roza (BLM)** | None | Tighter sites | Open all season | Smaller, quieter |
+| **Wenas Wildlife Area dispersed** | None | Up to ~26' on Wenas Rd pullouts | Open year-round | Closest to densest bird habitat |
+| **Yakima Sportsman SP** | Full | RVs to 60' | **❌ CLOSED Oct 1 – Apr 16** | Not viable for quail season |
+| **Private RV parks (Ellensburg/Yakima)** | Full | Yes | Open year-round | 30–45 min daily commute to hunting |
+
 ## Scouting Report
 
 ### The Umtanum Creek Trail (the actual hunt)
@@ -75,7 +89,7 @@ The killer combo here is **Big Pines Campground** (BLM, riverside) as your base 
 | **Hunting Pass** | Discover Pass on Wenas Wildlife Area (or Vehicle Access Pass with hunt/fish license); BLM lands don't require it but it doesn't hurt |
 | **License** | WA small game license for upland birds; WA fishing license for the river |
 | **Camping** | Big Pines $15/night, FCFS in fall — see above |
-| **Best season** | **Sept – Oct for the combo** (quail open Sept 1, river still warm and fishing, weather pleasant) |
+| **Best season** | **Mid-October through early December for the quail+fishing combo** (quail opens ~Oct 18, river still fishable into November) |
 | **Access** | I-90 east to Ellensburg Exit 109, south on Hwy 821 / Canyon Rd. About 2 hrs from Shoreline. |
 
 ## Field Notes
