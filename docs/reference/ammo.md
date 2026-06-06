@@ -24,12 +24,22 @@ Personal default: **use non-toxic everywhere, even where lead is still legal.** 
 
 ## My Default Load for Desert WA Quail
 
-**Federal Speed-Shok Steel 20g, 2 3/4" shell, 7/8 oz, #6 shot** (or Winchester Super-Target Steel / Kent Fasteel in same spec).
+**Steel #6, 20g, 2 3/4" shell, 3/4 oz OR 7/8 oz payload — whichever is on the shelf.** Both work for quail.
 
 * **Why steel #6:** the field-standard size for Columbia Basin quail; widely stocked
-* **Why 7/8 oz payload:** standard 20g upland load; plenty of pellets for 15–25 yard flushes
-* **Why 2 3/4" NOT 3":** 3" shells are 1 oz or 1 1/8 oz payloads — heavier recoil, overkill for quail ranges. The Bobwhite at 6 lbs will let you feel 3" loads. 2 3/4" is the upland standard for a reason.
-* **Cost:** $20–25/box of 25 at any Cabela's / Sportsman's / Bi-Mart
+* **Why 2 3/4" NOT 3":** 3" shells are 1+ oz payloads — heavier recoil, overkill for quail ranges. The Bobwhite at 6 lbs will let you feel 3" loads. 2 3/4" is the upland standard.
+* **Payload choice — 3/4 oz vs 7/8 oz:**
+    - **3/4 oz** = ~137 pellets of #6 steel. Lighter recoil. Less meat damage. Commonly labeled "Target" but functionally fine for quail.
+    - **7/8 oz** = ~160 pellets. Standard hunting spec; more margin if your gun is patterning loose.
+    - **For quail at 15–25 yards, both work.** Many quail-specific hunters prefer the 3/4 oz for the lighter recoil.
+
+**Specific picks (any of these in stock works):**
+* Federal Speed-Shok Steel 20g 2 3/4" #6 — common hunting line
+* Winchester Super-Target Steel 20g 2 3/4" 3/4 oz #6 — target-labeled but same function
+* Kent Fasteel 20g 2 3/4" #6
+* Remington Sport Loads 20g 2 3/4" 3/4 oz #6
+
+**Cost:** $20–25/box of 25 at any Cabela's / Sportsman's / Bi-Mart.
 
 **Premium upgrade option:** Boss Bismuth 20g 2 3/4" 7/8 oz **#7.5** if you want lead-like pattern density on a "special day" hunt. ~$40/box.
 
