@@ -63,6 +63,51 @@ The killer combo here is **Big Pines Campground** (BLM, riverside) as your base 
 | **Yakima Sportsman SP** | Full | RVs to 60' | **❌ CLOSED Oct 1 – Apr 16** | Not viable for quail season |
 | **Private RV parks (Ellensburg/Yakima)** | Full | Yes | Open year-round | 30–45 min daily commute to hunting |
 
+### Big Pines vs Wenas Dispersed — Head-to-Head (the real decision)
+
+For a multi-day quail hunt with a 26' trailer, these are the two real contenders. The choice hinges on **one question: do you want a fishing day in the mix?**
+
+#### Big Pines (BLM canyon, riverside)
+
+**Pros**
+* Established campground — vault toilets, fire rings, picnic tables, dumpsters
+* **Yakima River at your feet** for afternoon fishing (C&R blue-ribbon trout) — the real differentiator
+* $15/night, 42 sites, FCFS in fall
+* Hwy 821 is paved — easy trailer haul in
+* Neighbors-but-managed; help nearby if rig has problems
+
+**Cons**
+* **26' trailer fit isn't guaranteed at every site** — verify with BLM (509-665-2100) about specific sites before committing
+* **You're hunting one drainage (Umtanum Creek) from this camp** — risk of repetition over 3–5 days
+* No hookups, no potable water
+* Canyon walls limit sky if astronomy is in the mix
+* ~15 min drive + footbridge crossing to start the actual Umtanum hunt — not "step out and hunt"
+
+#### Wenas Wildlife Area dispersed (drive in to the plateau)
+
+**Pros**
+* **Multiple hunt units** — Wenas Rd, Cleman Mountain, Audubon flats — different terrain each day, no repetition over 5 days
+* **Step out and hunt** — pick a pullout near quail habitat, no driving to trailhead
+* 26' fits comfortably on Wenas Rd pullouts
+* Free (just Discover Pass)
+* Privacy, no neighbors close
+* Higher elevation = darker sky for the Dob
+* No reservation system to navigate
+
+**Cons**
+* **True primitive: no toilets, water, trash, possibly no fire rings.** Full self-contained required.
+* Wenas Rd is gravel — 26'-friendly but variable; storms or trucks can rough it up
+* **No fishing combo** — you give up the Yakima River
+* Cell coverage spotty
+* No backup if rig has problems
+* Fire restrictions vary; bring no-burn cooking options
+
+#### Decision rule
+
+* **Fishing day matters** → Big Pines. Budget 2 hunt mornings + 2 fishing afternoons.
+* **Pure hunt trip, more variety per day** → Wenas dispersed. Multi-unit hunting over 3–5 days.
+* **First-ever trip to the area, 26' trailer** → Big Pines as the lower-risk learning curve; save Wenas dispersed for trip #2 once you know the terrain.
+
 ## Scouting Report
 
 ### The Umtanum Creek Trail (the actual hunt)
