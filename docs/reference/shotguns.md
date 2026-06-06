@@ -45,19 +45,58 @@ Viable CZ options under this constraint: Bobwhite G2 (SxS), Drake (O/U), Mallard
 
 **For jdosher: skip the Teal.** Auto-ejectors violate the personal preference rule. The $400 discount over the Redhead Premier means nothing when the underlying gun isn't a fit. (Catch is also that at 6.9 lbs in 20g, the Teal is heavier than alternatives — but the ejector issue is the disqualifier.)
 
-### Other 20g O/U options worth knowing
+### Broader 20g O/U market — sorted by extractor/ejector
 
-For broader market context outside CZ:
+**Extractor-only options (match the preference):**
 
-| | **Stoeger Condor** | **Yildiz O/U** | **Mossberg Silver Reserve** | **Tristar Hunter EX** | **Weatherby Orion** |
-|---|---|---|---|---|---|
-| **Price** | ~$450–550 | ~$450–650 | ~$500–700 | ~$600–700 | ~$1000 |
-| **Made in** | Turkey | Turkey | Turkey/Italy | Turkey | Turkey |
-| **Weight (20g)** | ~6 lbs | ~5.5–6 lbs | ~6 lbs | ~6 lbs | ~6.5 lbs |
-| **Quality tier** | Budget — basic but reliable | Budget Turkish, surprisingly light | Mid-budget | Mid-budget | Solid mid-tier |
-| **Notes** | Best cheap O/U if money is tight | Sold at Academy Sports, real value | Wide retail availability | Underrated, good fit | Heavier; "not pretty but solid" |
+| Gun | Weight (20g) | Price | Notes |
+|---|---|---|---|
+| **TriStar Hunter EX LT** | **5.4 lbs** ← lightest in class | MSRP ~$700, often $600 street | Alloy receiver w/ steel inserts, fiber optic sight, sealed action, chrome-lined. TriStar's "lightest 20g in the world" claim. QC is Turkish-budget (mixed reputation); the very light weight = more felt recoil with heavier loads. |
+| **CZ Drake** | ~6.5 lbs | ~$700–800 | Already covered above |
+| **CZ Bobwhite G2 (SxS)** | ~6 lbs | ~$700–800 | Already covered above |
+| **TriStar Hunter EX** (standard, steel receiver) | 6.3 lbs | ~$550–650 | Heavier sibling of the LT; same extractor design, more durable |
+| **Stoeger Condor I** (base model) | ~6.8–6.9 lbs | **~$559** | Extractor model confirmed. Note: **only the base "I" model has extractors** — the Condor Supreme has auto-ejectors. |
+| **Mossberg Silver Reserve** (standard field) | ~6.5 lbs | ~$500–700 | Standard field models = extractors. The Sport / Super-Sport variants are ejector — skip those. |
+| **Weatherby Orion SxS** | ~6.5 lbs | ~$1000 | **SxS only** — the Weatherby Orion O/U has auto-ejectors (out for the preference). The SxS specifically calls out "extractors so empty shells end up in your pocket, not on the landscape." |
 
-**Premium tier** (for context, not your range): Browning Citori $1500+, Beretta 686 Silver Pigeon $2200+, Franchi Instinct SL ~$1300, Caesar Guerini ~$3500+.
+**Ejector models — eliminated for jdosher's preference:**
+
+* ❌ **CZ Teal / Redhead Premier** — auto-ejectors
+* ❌ **Yildiz O/U at Academy** — "Academy only imported the ejector versions"
+* ❌ **Weatherby Orion O/U** — auto-ejectors (only the SxS has extractors)
+* ❌ **Stoeger Condor Supreme** — auto-ejectors (the base Condor I has extractors)
+* ❌ **Mossberg Silver Reserve Sport / Super-Sport** — auto-ejectors
+* ❌ **Browning Citori CXS** ($2,190 MSRP) — automatic ejectors
+* ❌ **Browning Cynergy CX** — automatic ejectors
+* ❌ **Most premium tier** (Beretta 686, Franchi Instinct, Caesar Guerini) — virtually all premium O/Us are ejector-equipped as standard
+
+### Standout pick — TriStar Hunter EX LT
+
+**On paper, the Hunter EX LT is the best match for jdosher's profile:**
+
+* **5.4 lbs** — lighter than CZ Upland Ultralight (6 lbs), CZ Drake (6.5), and the Teal (6.9). For all-day walking in shrub-steppe, this is a real difference.
+* **Extractors** — matches preference
+* **~$700 MSRP, often $600 street** — competitive with Drake
+* Aluminum alloy receiver w/ steel inserts, chrome-lined barrels, fiber optic front sight, sealed action
+* Single selective trigger, 5 Beretta-pattern choke tubes
+
+**Honest caveats (real, not marketing):**
+
+* **TriStar QC reputation is mixed** — Turkish budget gun; some buyers report wood-to-metal fit issues, occasional misfires on early-life rounds. Lifetime warranty handles most issues but expect potential break-in pains.
+* **5.4 lbs comes at a cost** — light guns kick more for the same load. Plan on lighter 7/8 oz steel loads for comfortable shooting; 1 oz+ loads will be noticeable.
+* **The LT alloy receiver is durable but not "heirloom" feel** — this is a working gun, not a generational gun.
+
+**If you'd rather have a slightly heavier but more robust gun** with similar extractor design: **TriStar Hunter EX (standard steel receiver) at 6.3 lbs and ~$550–650**. Same ergonomics, more weight to soak recoil, lower price.
+
+### Decision after extractor filter
+
+The viable shortlist is now:
+
+1. **TriStar Hunter EX LT** — lightest, ~$600–700, fits all-day-walking criteria best
+2. **CZ Drake** — ~$700–800, more refined feel, better QC reputation than TriStar
+3. **CZ Bobwhite G2** — if you want the SxS experience
+4. **Stoeger Condor I** — cheapest viable option at $559
+5. **TriStar Hunter EX** (standard) — middle ground between LT and Drake
 
 ### Decision Framework (Updated)
 
