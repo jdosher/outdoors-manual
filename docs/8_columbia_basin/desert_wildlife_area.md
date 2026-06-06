@@ -16,6 +16,43 @@ darksky: Bortle 3 (open shrub-steppe, wide horizons)
 
 WDFW explicitly lists pheasant, chukar, Hungarian partridge, and quail as huntable species. Grant County is one of the top quail-producing counties in WA, and District 5 biologists call California quail the most abundant and popular upland game bird in the district. **This is real, current bird country**, not a recovering burn zone.
 
+## ⚠ Non-Toxic Shot — REQUIRED
+
+**Lead shot is illegal at Desert WA.** Per WDFW verbatim:
+
+> "Non-toxic shot is required for hunting all game birds and game animals in the Columbia Basin Wildlife Area (which includes the Banks Lake, Gloyd Seeps, Lower Crab Creek, Quincy Lakes, and Warden units)."
+
+Desert Unit is part of the Columbia Basin Wildlife Area Complex — the rule applies here.
+
+**Penalty:** mandatory **$1,000 fine + 2-year loss of small game hunting privileges.** This is the kind of rule that gets enforced — bring only non-toxic ammo.
+
+### Non-toxic ammo options for upland (12g and 20g)
+
+* **Steel** — cheapest non-toxic option; $20–30/box of 25
+    - Patterns tighter than lead; go one shot size larger than your lead-equivalent
+    - For quail: #6 or #7 steel (vs #7.5 lead)
+    - For pheasant: #4 or #5 steel
+    - Modified or tighter chokes with steel risk damage on older barrels — verify your barrel is rated for steel
+* **Bismuth** — softest, most lead-like behavior; **$35–45/box** (most expensive)
+    - Boss Bismuth, Federal Bismuth, Rio Bismuth — premium options
+    - Safe through any choke; performs nearly identical to lead
+    - The choice if your gun isn't steel-rated
+* **Hevi-Metal / Hevi-Bismuth blends** — middle-ground performance and price ($30–35)
+* **Tungsten Super Shot (TSS)** — densest, highest performance; $$$ (~$50+); usually overkill for upland
+
+### Recoil-equivalent 12g loads (mimicking 20g)
+
+If you're using a 12g (rather than buying a 20g), drop payload to reduce recoil:
+
+* **1 oz 12g steel/bismuth #6 or #7** — recoil feels close to standard 20g
+* **Avoid the standard 1 1/8 oz loads** — those make 12g feel like 12g (heavier kick, more fatigue late in the day)
+
+### Pre-trip checklist for ammo
+
+* Buy non-toxic at least a week before the trip — local sporting goods can be picked over in fall
+* **Pattern-test** at 20 and 30 yards on a butcher-paper target before trusting the load on birds — non-toxic patterns differently than lead through the same choke
+* Keep the receipt or a photo of the box label in your hunting kit; in the unlikely event of a contact, having proof you bought non-toxic is helpful
+
 ## ⚠ Game Reserves — CLOSED to Hunting
 
 Two areas within the Desert Wildlife Area are **closed to all hunting and trapping**:

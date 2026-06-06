@@ -26,19 +26,24 @@ Both 12g pumps cover waterfowl, mixed-bag pheasant, and any high-shot-count work
 | **Triggers** | Double (front=R, rear=L) | Single selective | Single selective | Single selective, **mechanical** (second barrel fires even if first fails) |
 | **Stock** | Classic straight grip option | Pistol grip | Pistol grip | Pistol grip |
 | **Receiver finish** | Color case-hardened | Standard blued | Modern alloy | **Gloss black chrome** |
-| **Tier** | Entry SxS | Entry O/U | Mid (alloy) | **Mid (Redhead Premier rebadge)** |
-| **Price (current)** | ~$700–800 new | ~$700–800 new | ~$800–900 new | **$550 at Cabela's** (vs $900–1100 for Redhead Premier proper) |
+| **Ejection** | **Extractors** | **Extractors** | Extractors (verify per current SKU) | **Ejectors** (auto-ejectors that fling cases) |
+| **Tier** | Entry SxS | Entry O/U | Mid (alloy) | Mid (Redhead Premier rebadge) |
+| **Price (current)** | ~$700–800 new | ~$700–800 new | ~$800–900 new | $550 at Cabela's (vs $900–1100 for Redhead Premier proper) |
 
-### ⚡ The Teal at $550 is the standout value
+### ⚠ Personal preference: extractors only
 
-**The CZ Teal is the Cabela's-exclusive rebadge of the CZ Redhead Premier** — a higher-tier gun than the Drake. The only material differences from the Redhead Premier:
-* Receiver finish: **gloss black chrome** instead of silver
-* Cabela's brand exclusive (slightly different stock engraving)
-* Otherwise identical internals: mechanical trigger, mid rib + vent rib (better sight picture than Drake), better wood, 5 choke tubes
+**Strong preference for extractors over ejectors** — no flying cases (quieter, no littering, don't lose shells). This rules out:
 
-**At $550 that's ~$400 off the Redhead Premier's normal price** — buying a mid-tier CZ at entry-tier money.
+* ❌ **CZ Teal** — has auto-ejectors despite the great $550 price. **Skip.**
+* ❌ **CZ Redhead Premier** (Teal's parent gun) — same reason.
 
-The catch: **at 6.9 lbs in 20g, it's heavier than the Drake (6.5) and notably heavier than the Upland Ultralight (6 lbs).** For dogless all-day walking in shrub-steppe, 0.5–1 lb adds up by sunset.
+Viable CZ options under this constraint: Bobwhite G2 (SxS), Drake (O/U), Mallard (basic O/U). Verify Upland Ultralight at the counter — newer SKUs may have ejectors.
+
+### The Teal at $550 — value pick if ejectors are acceptable (they're NOT for jdosher)
+
+**The CZ Teal is the Cabela's-exclusive rebadge of the CZ Redhead Premier** — a higher-tier gun than the Drake at a discount. Mid-tier internals (mechanical trigger, mid rib + vent rib, better wood, 5 chokes, **auto-ejectors**) at entry-tier money.
+
+**For jdosher: skip the Teal.** Auto-ejectors violate the personal preference rule. The $400 discount over the Redhead Premier means nothing when the underlying gun isn't a fit. (Catch is also that at 6.9 lbs in 20g, the Teal is heavier than alternatives — but the ejector issue is the disqualifier.)
 
 ### Other 20g O/U options worth knowing
 
