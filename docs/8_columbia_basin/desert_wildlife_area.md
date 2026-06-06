@@ -81,6 +81,40 @@ A real bonus to a fall hunt trip — the Desert WA + Potholes area is one of WA'
 * WDFW runs annual Fall Walleye Index Netting (FWIN) here — it's a real walleye fishery
 * The afternoon-after-morning-hunt fishing spot
 
+### What to actually target on a mixed-rig couple trip
+
+Honest trip planning for a June 3-night Potholes camping trip with two anglers (your Fenwick primary + wife's Shakespeare 5.5' combo). Walleye is the cool target but **not the smartest primary** — better trip shape:
+
+| Slot | Target | Rig | Why |
+|---|---|---|---|
+| **Morning (both)** | **Bluegill / panfish from shore** | Both rigs ideal — Shakespeare 5.5' shines for tight-bank casting | June = spawning peak; fish stacked at shoreline structure; easy + productive |
+| **Afternoon (both)** | **Stocked rainbow trout (Desert WA seep lakes)** | Both — sliding-sinker dough rig on either | 15–20 min drive from camp; predictable success |
+| **Dawn / dusk (primary only)** | Walleye + smallmouth bass | Fenwick + 8 lb fluoro leader | Stretch goal while wife sleeps in |
+| **Skip midday for walleye** | — | — | Walleye go deep + inactive in bright sun |
+
+**Bluegill is the smart primary** for this trip — both rigs work, June is peak, you'll fill a cooler. Walleye is bonus.
+
+### Bluegill / Panfish Tackle (for the trip)
+
+Most of what you need is already in your kit. What to add:
+
+* **Small jigheads, 1/64–1/32 oz** — lighter than the alpine grub rig (1/32–1/16 oz). Bluegill prefer smaller presentations.
+* **Marabou crappie jigs** (1/64–1/32 oz) — chartreuse, white, black/yellow. Pre-tied; easy to use.
+* **Tiny soft plastic tubes or grubs** (1"–1.5") — chartreuse, smoke, white. Fish on the jighead above.
+* **Berkley Gulp! Maggots** or **Crappie Nibbles** — artificial alternative to real worms; long shelf life, no live-bait management
+* **Live worms** (red worms, wax worms, mealworms) — sold at any tackle counter near Potholes; cheap, deadly on bluegill
+
+You already have everything else needed:
+- **Hooks:** #8–12 baitholder / Aberdeen (already on shopping list)
+- **Split shot:** tin BB (already on shopping list)
+- **Bobbers:** red/white snap-on (already owned) — perfect for shore bluegill
+- **Line:** 4 lb fluoro leader is fine; even straight 6 lb mono on wife's rig works
+
+**Rig setup (both rods):**
+* Snap-on bobber → 2 split shot 6" above hook → #8 baitholder → red worm or Gulp! Maggot
+* Or: bobber → 1/32 oz marabou jig (no bait) → cast and twitch
+* Cast to docks, weed edges, brush, structure
+
 ### Walleye Primer (zero-to-functional, for a beginner)
 
 Walleye are the marquee fall species at Potholes and worth learning — flaky white meat, mild flavor, one of the best eating freshwater fish. **They are NOT like trout.** Different habits, different gear, different presentation.

@@ -59,6 +59,13 @@ Compact, printable tackle reference organized by target species. Each line: **it
 
 **Yellow perch crossover** — same rod/reel/line works; just add smaller hooks (#6–10) and a slip bobber + jig + worm rig.
 
+**Bluegill / panfish crossover (Potholes shore + lowland lakes)**
+- Small jigheads 1/64–1/32 oz — lighter than the trout/perch grub rig
+- Marabou crappie jigs 1/64–1/32 oz (chartreuse, white, black/yellow) — pre-tied, easy
+- Tiny soft plastic tubes/grubs 1"–1.5" (chartreuse, smoke, white)
+- Berkley Crappie Nibbles or Gulp! Maggots — long-shelf-life artificial alternative to live worms
+- Live worms (red, wax, mealworms) — buy locally; cheap, deadly. Bait shops near any lake stock these.
+
 ---
 
 ## FLOUNDER / SOLE — Puget Sound piers & beaches
