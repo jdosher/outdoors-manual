@@ -8,9 +8,18 @@ category: Reference / Gear
 Compact kit for Cascade alpine cutthroat / brook / rainbow. Target box: **KastKing HyperSeal 3500** (waterproof, double-sided, EVA foam side, includes desiccant — well-suited to backcountry condensation). Plano EDGE 3500 is the smaller minimalist alternative.
 
 ## Current Inventory (owned)
+
+**Primary rig (jdosher):**
 * Rod: Fenwick 6.5' Light
 * Reel: Okuma 2500, spooled with **6 lb hi-vis braid (loaded as mainline)** over 6 lb mono backing
 * Leader: 4 lb fluorocarbon
+
+**Second rig (wife's):**
+* Rod: Shakespeare (older, handed down; specs TBD)
+* Line: 6 lb mono (currently loaded)
+* Use case: partner trips, lake fishing alongside the primary rig
+
+**Shared:**
 * Lures: Rooster Tails (assorted)
 * Bait: PowerBait, rainbow
 * Scent: Pro-Cure Super Gel — Trophy Trout
