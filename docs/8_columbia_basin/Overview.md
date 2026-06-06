@@ -8,6 +8,7 @@ The Columbia Basin — Grant and Adams counties in central Washington — is the
 - **Agricultural / CRP / irrigation-ditch habitat** — exactly the "near rivers and irrigated land" the WDFW biologist flagged as the productive cover type
 - **~3 hours from Shoreline** via I-90 East — similar drive to Methow, shorter than most eastside options
 - **Bonus species mix:** pheasant, chukar, Hungarian partridge, mourning dove (early season), waterfowl on the seep lakes
+- **Fishing combo:** Potholes Reservoir is a serious walleye/bass/perch fishery right at the Potholes SP camp; the Desert WA seep-lake chain holds stocked trout and warmwater species; Lenice/Nunnally to the east are quality trout water. See the [Desert WA page](desert_wildlife_area.md#fishing-combo-opportunity) for details.
 
 ## The Two Headline Wildlife Areas
 

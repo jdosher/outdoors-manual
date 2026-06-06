@@ -56,6 +56,34 @@ Two areas within the Desert Wildlife Area are **closed to all hunting and trappi
 | **Best season** | Oct 4 (quail opener) through early December |
 | **Closures** | Winchester and Frenchman Hills Game Reserves are CLOSED to hunting — verify boundaries |
 
+## Fishing Combo Opportunity
+
+A real bonus to a fall hunt trip — the Desert WA + Potholes area is one of WA's strongest still-water fisheries, and a 26' camp at Potholes SP puts you in the middle of it.
+
+### Potholes Reservoir (right at camp)
+* **22 species per WDFW** — bass, crappie, walleye, perch, bluegill, whitefish, stocked rainbow trout
+* **Fall is the improving window** for walleye — water cools, walleye go deeper but feed actively into winter
+* **Shore fishing is possible** from the campground and several access points, though a boat is preferred
+* WDFW runs annual Fall Walleye Index Netting (FWIN) here — it's a real walleye fishery
+* The afternoon-after-morning-hunt fishing spot
+
+### Seep Lakes within Desert WA (short drive)
+Created by irrigation seepage after the Columbia Basin Irrigation Project and Potholes Reservoir. **Mix of stocked trout, warmwater species, and quality fly-only options.**
+* **Desert Lake Chain** — Harris, Sedge, Tern, Dune lakes; rehabilitated 2010 specifically for rainbow trout
+* **Hampton, Soda, Teal, Hutchison, Coyote** — varied species; some stocked trout, some bass/panfish
+* **Quail Lake** — fly fishing only (rule, not just preference)
+* **Bobcat and Coyote Creek lakes** — largemouth bass, bluegill, crappie
+
+### Quality trout side trip — Lenice and Nunnally
+* **NOT in Desert WA** — these are in the adjacent [Lower Crab Creek Wildlife Area Unit](https://wdfw.wa.gov/places-to-go/wildlife-areas/lower-crab-creek-wildlife-area-unit), east of Desert WA
+* **Quality trout fisheries** — fly water, selective gear; worth a dedicated day if trout is the goal
+* Standard caveat: verify current rules per WDFW
+
+### Tackle from Desert WA / Potholes
+* Same alpine trout setup works (Fenwick 6.5' Light + Okuma 2500 + 4 lb fluoro) for stocked trout
+* For walleye and bass, scale up to medium-power rod + 8–10 lb braid + 8 lb fluoro leader — or fish your light rig and accept that big walleye will give you a fight
+* Bring: small spinners, small spoons, soft-plastic curl-tail grubs on jigheads (the perch crossover rig from [Shopping List](../reference/shopping_list.md))
+
 ## Current Alerts (from WDFW page)
 
 * **Drone flights over Columbia Basin Wildlife Area units planned intermittently through 2027.**
