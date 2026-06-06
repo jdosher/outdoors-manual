@@ -7,6 +7,32 @@ category: Reference / Gear
 
 Personal default: **use non-toxic everywhere, even where lead is still legal.** Simpler kit, no rule-checking at the trailhead, no lead in the field.
 
+## Steel vs Bismuth — Field Reality
+
+**Steel is what most Columbia Basin hunters actually use** (~70%+ of vests in the parking lot). Bismuth is the premium minority pick.
+
+| | **Steel (the field default)** | **Bismuth (the premium pick)** |
+|---|---|---|
+| **Cost / box of 25** | $20–25 | $40–75 (2–3× steel) |
+| **Density** | 7.8 g/cc | 9.6 g/cc (close to lead) |
+| **Pattern behavior** | Tighter than lead — go larger shot | Lead-like |
+| **Choke compatibility** | OK on modern guns (IC, Modified); avoid tight chokes on older barrels | Safe through any choke |
+| **Best for** | Modern guns, cost-conscious hunters, high-volume shooters | Old fixed-choke guns, classic SxS, low-volume hunters who want lead-like behavior |
+| **Field share** | ~70%+ of Columbia Basin upland hunters | Minority premium pick |
+
+**For a modern Bobwhite G2 or Setter LT (steel-rated through Modified): steel is the smart-money default.** Bismuth is a "fancy day" option.
+
+## My Default Load for Desert WA Quail
+
+**Federal Speed-Shok Steel 20g, 2 3/4" shell, 7/8 oz, #6 shot** (or Winchester Super-Target Steel / Kent Fasteel in same spec).
+
+* **Why steel #6:** the field-standard size for Columbia Basin quail; widely stocked
+* **Why 7/8 oz payload:** standard 20g upland load; plenty of pellets for 15–25 yard flushes
+* **Why 2 3/4" NOT 3":** 3" shells are 1 oz or 1 1/8 oz payloads — heavier recoil, overkill for quail ranges. The Bobwhite at 6 lbs will let you feel 3" loads. 2 3/4" is the upland standard for a reason.
+* **Cost:** $20–25/box of 25 at any Cabela's / Sportsman's / Bi-Mart
+
+**Premium upgrade option:** Boss Bismuth 20g 2 3/4" 7/8 oz **#7.5** if you want lead-like pattern density on a "special day" hunt. ~$40/box.
+
 ## Where Non-Toxic Is REQUIRED in WA
 
 * **Columbia Basin Wildlife Area Complex** (Banks Lake, Gloyd Seeps, Lower Crab Creek, Quincy Lakes, Warden, Desert units) — all game birds and game animals

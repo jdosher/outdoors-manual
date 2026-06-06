@@ -88,19 +88,25 @@ Viable CZ options under this constraint: Bobwhite G2 (SxS), Drake (O/U), Mallard
 
 **If you'd rather have a slightly heavier but more robust gun** with similar extractor design: **TriStar Hunter EX (standard steel receiver) at 6.3 lbs and ~$550–650**. Same ergonomics, more weight to soak recoil, lower price.
 
-### Current Working Pick (interim — may upgrade)
+### Current Working Pick
 
-**TriStar Setter LT 20g, 28" barrel, ~5.4–5.5 lbs, extractors** — found at MidwayUSA for **$475**. Add a **Limbsaver slip-on recoil pad (~$25–30)** to lengthen LOP and soak the lighter gun's felt recoil. Total ~$500.
+**Leaning: CZ Bobwhite G2 SxS, 20 gauge, ~$680 at Sportsman's Warehouse.** 6 lbs, extractors, color case-hardened receiver, double-trigger or single-trigger option, English straight stock option, lifetime warranty.
 
-**Why this is the working pick:**
-- Matches the extractor-only constraint
-- ~2.2 lbs lighter than the 870 — major comfort gain for all-day walking
-- Cheap enough that "trying upland with a 20g O/U" is a low-risk commitment
+**Why this pivoted from the Setter LT:**
+- "Not poor — don't want to go that cheap" — the LT is a working/disposable gun
+- SxS is arguably the better tool for traditional upland walking (balance, lighter feel, instant choke selection on double trigger, extractors are SxS-native)
+- CZ QC is more refined than TriStar's Turkish-budget reputation
+- Bobwhite at $680 is the value sweet spot for new SxS
 
-**Why it might not be the final answer:**
-- TriStar QC is Turkish-budget; not an heirloom gun
-- "Working gun" feel, not a forever piece
-- Felt recoil at 5.4 lbs is noticeable with non-toxic loads
+**Fallback options if the Bobwhite doesn't mount well in person:**
+- **TriStar Setter LT 20g 28"** at $475 — interim O/U
+- **TriStar Setter S/T 26"** at $475 — heavier O/U sibling
+- **CZ Drake** at $700–800 — extractor O/U
+
+**Real upgrade path (if the SxS bug bites):**
+- **CZ Sharp-Tail SxS** at $1,000–1,500 — refined extractor SxS
+- **Dickinson Plantation Turkish SxS** at $1,200–1,800
+- **Used quality vintage SxS** (Browning BSS, SKB, vintage Beretta) at $800–1,500
 
 ### Premium-Tier Reality for Extractor-Only O/Us
 
