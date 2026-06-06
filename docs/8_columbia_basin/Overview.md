@@ -19,6 +19,26 @@ The Columbia Basin — Grant and Adams counties in central Washington — is the
 
 **For a 26' trailer + fall hunt, Desert Wildlife Area is the better primary base.** Quincy is still worth hunting on foot from a perimeter park, but you don't drive your rig into it during the season.
 
+## Fall Weather Expectations (Moses Lake / Columbia Basin)
+
+Eastside continental climate — cool, mostly dry, and **windier than the westside** because the open shrub-steppe has no tree cover. Plan layered clothing and bring wind protection.
+
+| Month | Typical highs | Typical lows | Conditions |
+|---|---|---|---|
+| **October** | **73 → 56°F** (declines through month) | 50 → 38°F | Mild, mostly dry early; cloudier and cooler late month. First frost mid-to-late October. |
+| **November** | ~50 → 40°F | 30s | Frosts regular; first snow possible. Increasing fog days. |
+| **December** | **34°F avg high** | **24°F avg low** | Snow normal (~2.6" total, falls ~7 days/month). Coldest, foggiest. |
+| **Wind** | Year-round factor in the Basin | | Average ~6 mph in winter; gusts higher. Wind shell mandatory. |
+| **Precip** | ~1" per month in late fall | | Dry overall vs westside; the cold is the bigger issue than the wet. |
+
+### Practical implications
+
+* **Layers, not single heavy:** big swings between dawn (cold) and midday (warmer) — fleece + wind shell + insulated outer
+* **Trailer water management:** by mid-November you're getting overnight freezes regularly. Drain hose between uses; consider heated hose if you'll be there in December
+* **Hunting:** cold birds hold tighter at dawn; midday warming gets them moving; wind makes flushing distances longer
+* **Fishing:** water temps dropping = walleye go deeper but feed actively; trout in seep lakes get slower; bass shut down by mid-November
+* **Hookup heat:** electric heat at camp is the whole point of hookups for fall trips — no apology needed
+
 ## Season & Limits
 
 * **WA Eastern California (Valley) Quail season:** **Oct 4 – Jan 19** (2025–26)
