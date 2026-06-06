@@ -59,12 +59,13 @@ Compact, printable tackle reference organized by target species. Each line: **it
 
 **Yellow perch crossover** — same rod/reel/line works; just add smaller hooks (#6–10) and a slip bobber + jig + worm rig.
 
-**Bluegill / panfish crossover (Potholes shore + lowland lakes)**
-- Small jigheads 1/64–1/32 oz — lighter than the trout/perch grub rig
-- Marabou crappie jigs 1/64–1/32 oz (chartreuse, white, black/yellow) — pre-tied, easy
-- Tiny soft plastic tubes/grubs 1"–1.5" (chartreuse, smoke, white)
-- Berkley Crappie Nibbles or Gulp! Maggots — long-shelf-life artificial alternative to live worms
-- Live worms (red, wax, mealworms) — buy locally; cheap, deadly. Bait shops near any lake stock these.
+**Bluegill / panfish crossover (Potholes shore + lowland lakes — verified Potholes-specific)**
+- **Leland's Trout Magnet starter kit** (jighead + body) — named-by-MarDon as the Potholes panfish slip-bobber bait
+- **Strike King Lil Suck'r** — second named-by-MarDon panfish bait at Potholes
+- Small slip bobbers — Potholes-verified rig style; complements the snap-on bobbers you already own
+- Color lean: **purple** and natural-baitfish (verified Potholes preference)
+- Live worms / wax worms — buy locally at MarDon Resort or any bait shop on the drive in
+- Berkley Crappie Nibbles or Gulp! Maggots — long-shelf-life backup if no live bait
 
 ---
 

@@ -94,26 +94,48 @@ Honest trip planning for a June 3-night Potholes camping trip with two anglers (
 
 **Bluegill is the smart primary** for this trip — both rigs work, June is peak, you'll fill a cooler. Walleye is bonus.
 
-### Bluegill / Panfish Tackle (for the trip)
+### Bluegill / Panfish at Potholes (verified specifics)
 
-Most of what you need is already in your kit. What to add:
+Based on Omnia Fishing patterns + MarDon-area reports. Not generic guesses.
 
-* **Small jigheads, 1/64–1/32 oz** — lighter than the alpine grub rig (1/32–1/16 oz). Bluegill prefer smaller presentations.
-* **Marabou crappie jigs** (1/64–1/32 oz) — chartreuse, white, black/yellow. Pre-tied; easy to use.
-* **Tiny soft plastic tubes or grubs** (1"–1.5") — chartreuse, smoke, white. Fish on the jighead above.
-* **Berkley Gulp! Maggots** or **Crappie Nibbles** — artificial alternative to real worms; long shelf life, no live-bait management
-* **Live worms** (red worms, wax worms, mealworms) — sold at any tackle counter near Potholes; cheap, deadly on bluegill
+**WHERE to fish from shore at Potholes (the actual hotspots):**
 
-You already have everything else needed:
-- **Hooks:** #8–12 baitholder / Aberdeen (already on shopping list)
-- **Split shot:** tin BB (already on shopping list)
-- **Bobbers:** red/white snap-on (already owned) — perfect for shore bluegill
-- **Line:** 4 lb fluoro leader is fine; even straight 6 lb mono on wife's rig works
+* **"Face of the sand dunes" and "humps in front of the dunes"** — verbatim from current Potholes reports for bluegill, crappie, and big perch
+* **Channel edges and ledges, 7–14 ft, near the state park** — summer pattern
+* **Weed edges, 5–10 ft** — post-spawn (mid June onward)
+* **2–6 ft over beds, near vegetation** — peak spawn (65–75°F water; June typical)
+* **Public shore access points:** Blythe, Glen Williams, Lind Coulee (multiple), Medicare Beach, Sampson's Pit, Warden Outfall
+* WDFW: "shoreline access: good · several locations to fish from shore"
 
-**Rig setup (both rods):**
-* Snap-on bobber → 2 split shot 6" above hook → #8 baitholder → red worm or Gulp! Maggot
-* Or: bobber → 1/32 oz marabou jig (no bait) → cast and twitch
-* Cast to docks, weed edges, brush, structure
+**BAITS that actually work at Potholes (verified, not generic):**
+
+* **Trout Magnet** (Leland's small soft-plastic body on tiny jighead) — **specifically named** as a Potholes panfish slip-bobber bait by MarDon Resort
+* **Strike King Lil Suck'r** — **specifically named** as a Potholes panfish bait
+* **Live worms, nightcrawlers** — universal but verified as most effective
+* **Wax worms** — soft body, scent in water, "entices bluegills, crappies, and perch"
+* **Crickets, grasshoppers, mealworms** — natural bait alternatives
+* **Small leeches** — "killer panfish bait" per the sources
+* **Color preferences for jigs/plastics:** natural baitfish, **purple**, light neutrals (matches the local forage of small invertebrates, insects, zooplankton, tiny minnows)
+
+**RIGS that work at Potholes (verified):**
+
+* **Slip-bobber rig tipped with Trout Magnet or Lil Suck'r** — the MarDon-specific recommendation for Potholes panfish
+* **Hook + split shot + small bobber + worm** — starter rig per the Wired2Fish guide
+* **Drop shot + micro jig** — summer pattern around dock posts (state park area)
+* **Bobber + micro jig over visible beds** — spawn
+
+**What to add to your kit (specifically):**
+
+* **Leland's Trout Magnet starter kit** (jigheads + bodies) — the named Potholes panfish lure
+* **Strike King Lil Suck'r** (small pack) — second-named panfish bait
+* **Small slip bobbers** (you already have snap-ons; slip is the verified Potholes rig)
+* **Live worms** — buy at MarDon Resort, Suncrest, or any bait shop on the drive in. Don't haul from home.
+* **Wax worms** — for variety; also available locally
+* Colors: lean **purple** and natural-baitfish for jigs/plastics
+
+You already own: small hooks (#8–12 from shopping list), BB split shot, 6 lb mono / 4 lb fluoro — all fine.
+
+**June timing for your trip:** spawn is in progress when water hits 65°F (typical for June at Potholes). Fish are in 2–6 ft on beds near vegetation, transitioning to weed edges by mid-June. **The sand dunes face is the verified hotspot for this window.**
 
 ### Walleye Primer (zero-to-functional, for a beginner)
 
