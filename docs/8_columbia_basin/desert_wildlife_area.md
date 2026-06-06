@@ -35,6 +35,20 @@ Two areas within the Desert Wildlife Area are **closed to all hunting and trappi
 
 **WDFW page:** [Desert Wildlife Area Unit →](https://wdfw.wa.gov/places-to-go/wildlife-areas/desert-wildlife-area-unit)
 
+## Terrain (per WDFW)
+
+> "Reservoir, sand dunes, shrubsteppe, basalt outcroppings with big sage and bluebunch wheatgrass, and some wetlands."
+
+**Sub-region breakdown (per WDFW page):**
+
+* **Western part:** active sand dunes; shrubsteppe except for wetland areas along the Winchester and Frenchman Hills wasteways. **Rolling, soft underfoot, not steep.** Sand walking is tiring but it's not climbing.
+* **Eastern part:** mostly sand / gravel / round rock soil; shrubsteppe vegetation bordered by irrigated farmland. Primarily rabbitbrush and needle and thread grass. **Flat to gently rolling, walkable.**
+* **Southern part (near O'Sullivan Dam):** mostly basalt outcroppings with big sage and bluebunch wheatgrass. **Rockier, mildly steeper, but not canyon country.**
+
+**Compared to Wenas/Umtanum** (classic rimrock canyon country with 30–60% slopes): this is dramatically less punishing. Desert WA is walkable shrub-steppe with open visibility — good for dogless glassing-and-walking tactics, no climbing required.
+
+**To preview before committing:** Google Street View along **Road M SW**, **Frenchman Hills Road**, or **Dodson Road** for visual reconnaissance. Google Earth 3D terrain view of the same area shows the overall flatness.
+
 ## Scouting Report
 
 * **Habitat layers:**
