@@ -47,6 +47,24 @@ Eastside continental climate — cool, mostly dry, and **windier than the westsi
 * **Bonus seasons may overlap:** pheasant (Oct–Jan), chukar/Hun partridge (Oct–Jan), mourning dove (Sept–Oct opener)
 * Always verify exact dates in the current WDFW Game Bird pamphlet.
 
+## Additional Areas Worth Knowing
+
+Beyond the two headline units, the broader Columbia Basin hunting landscape includes:
+
+* **Gloyd Seeps** — between Stratford and Moses Lake. WDFW unit; riparian/seep habitat, lower-pressure than the headline units. Useful as a "if Quincy/Desert are crowded, drive 20 min north" option.
+* **Lower Crab Creek Wildlife Area** — east of Desert WA, between Corfu and the Columbia River. Already mentioned as a fishing destination (Lenice, Nunnally) but also has upland bird habitat.
+* **Coulee Corridor** — around Banks Lake and Lenore Lake. Mix of WDFW lands; further north.
+* **Dry Falls unit** — south end of Banks Lake.
+* **Columbia River breaks north of Vantage** — chukar/Hun country; steep, classic dogless terrain.
+* **Royal Slope (Hunt by Reservation Program)** — structured permit-only access; submit application via WDFW if interested.
+
+## Dogless Tactics That Apply Here
+
+* **Plan to hit multiple coveys**, not one. Per local intel: "Large coveys are difficult to find by mid-season on public lands" — successful hunters identify multiple spots and rotate.
+* **Lean on riparian zones** — water-and-cover edges are still the highest-percentage starting point, exactly the dogless-friendly mappable terrain
+* **Remote shrub cover away from pressure** holds the birds that walked away from the road; willing to walk = willing to find
+* **Honest caveat:** the local 2015 hunting prospects article explicitly says dogs significantly improve quail success. Going dogless here is doable but you're playing on harder mode — lean even harder on terrain, water, and timing.
+
 ## Camping for a 26' Trailer
 
 See [Camping Options](camping_options.md). Real candidates:
