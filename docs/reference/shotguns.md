@@ -88,6 +88,33 @@ Viable CZ options under this constraint: Bobwhite G2 (SxS), Drake (O/U), Mallard
 
 **If you'd rather have a slightly heavier but more robust gun** with similar extractor design: **TriStar Hunter EX (standard steel receiver) at 6.3 lbs and ~$550–650**. Same ergonomics, more weight to soak recoil, lower price.
 
+### Current Working Pick (interim — may upgrade)
+
+**TriStar Setter LT 20g, 28" barrel, ~5.4–5.5 lbs, extractors** — found at MidwayUSA for **$475**. Add a **Limbsaver slip-on recoil pad (~$25–30)** to lengthen LOP and soak the lighter gun's felt recoil. Total ~$500.
+
+**Why this is the working pick:**
+- Matches the extractor-only constraint
+- ~2.2 lbs lighter than the 870 — major comfort gain for all-day walking
+- Cheap enough that "trying upland with a 20g O/U" is a low-risk commitment
+
+**Why it might not be the final answer:**
+- TriStar QC is Turkish-budget; not an heirloom gun
+- "Working gun" feel, not a forever piece
+- Felt recoil at 5.4 lbs is noticeable with non-toxic loads
+
+### Premium-Tier Reality for Extractor-Only O/Us
+
+The extractor-only constraint **largely closes off the standard premium O/U tier**. Almost every gun in the $1,000–3,000+ O/U bracket comes with auto-ejectors as standard (Beretta 686 Silver Pigeon, Browning Citori line, Franchi Instinct SL, Caesar Guerini, all the Italian-builds).
+
+**Premium extractor-only paths exist mostly on the SxS side:**
+
+* **CZ Sharp-Tail (SxS, ~$1,000–1,500)** — known extractor-only quantity, upland-classic
+* **Dickinson Plantation Turkish SxS (~$1,200–1,800)** — mid-tier extractor SxS
+* **Connecticut Shotgun Manufacturing RBL (~$5,000+)** — high-end American SxS
+* **Used quality vintage O/U with original extractors** — niche hunt; pre-ejector-era guns
+
+If "spend more for a better gun" is the goal under this constraint, **the upgrade path is to SxS, not a fancier O/U.**
+
 ### Decision after extractor filter
 
 The viable shortlist (with weight savings vs current 12g pumps):
