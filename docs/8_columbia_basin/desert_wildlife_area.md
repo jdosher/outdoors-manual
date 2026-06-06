@@ -67,6 +67,69 @@ A real bonus to a fall hunt trip — the Desert WA + Potholes area is one of WA'
 * WDFW runs annual Fall Walleye Index Netting (FWIN) here — it's a real walleye fishery
 * The afternoon-after-morning-hunt fishing spot
 
+### Walleye Primer (zero-to-functional, for a beginner)
+
+Walleye are the marquee fall species at Potholes and worth learning — flaky white meat, mild flavor, one of the best eating freshwater fish. **They are NOT like trout.** Different habits, different gear, different presentation.
+
+**What they are:**
+* Cool-water predator (active 45–60°F water — exactly fall conditions at Potholes)
+* **Light-sensitive eyes** ("walleye" = wall-eye, reflective layer). They hate bright sun.
+* **Best at dawn, dusk, after dark, and on cloudy/windy days**
+* Structure-oriented: hold near weed edges, rocky points, drop-offs, submerged wood
+* School up — find one, often find more
+* Typical: 14–20"; trophies 24–30"+
+
+**Daily limits (statewide WA):** 8 walleye/day, no minimum size. Verify Potholes-specific rules in current WDFW pamphlet — Potholes generally follows statewide.
+
+**Gear (works alongside your trout kit):**
+* **Rod:** medium-power spinning, 6'6"–7' is ideal. Your Fenwick 6.5' Light will land them but you'll feel under-rodded on a big one. If you only have the Light, that's fine to start.
+* **Reel:** your Okuma 2500 works
+* **Line:** 10–15 lb braid mainline → 6–10 lb fluoro leader (clearer water = lighter leader)
+
+**Three shore-fishing techniques that actually work for a beginner:**
+
+1. **Jig + soft plastic minnow (the simplest reliable rig)**
+    - 1/4 oz jighead (round head, ball jig)
+    - Soft plastic 3" curl-tail or paddle-tail (white, chartreuse, smoke — Berkley Powerbait Minnow style)
+    - **Cast out near structure, let it sink to bottom, slow lift-and-drop retrieve back.** Pause every 5 seconds — most strikes happen on the fall.
+    - This is the most productive shore-fishing walleye rig in WA.
+
+2. **Crankbait cast-and-retrieve**
+    - **Rapala Husky Jerk, Salmo Hornet, or Berkley Flicker Shad** — perch and shad color patterns
+    - Cast parallel to structure (jetties, drop-offs) and retrieve at medium-slow pace
+    - Good for covering water if you don't know where fish are holding
+
+3. **Slip-bobber + jig + minnow (set-and-wait)**
+    - Slip bobber adjusted to suspend a jig 1–3 ft off bottom
+    - Tip jig with a real minnow (allowed in WA — verify Potholes specifics) OR a Berkley Gulp! minnow if you want artificial
+    - Cast into productive water and watch the bobber
+    - Less active fishing; good while drinking a beer at dusk
+
+**Shore-fishing locations at Potholes (the real challenge — most walleye fishing is from boats):**
+* **Jetties and rock structures** at boat launches (Potholes SP, Mar Don Resort)
+* **Dam area** (O'Sullivan Dam) — drop-offs and current
+* **Points** with structure visible on satellite imagery
+* **Weed edges** in shallower bays
+* **Lights-on docks at night** — walleye come in to feed on baitfish attracted by lights
+
+**Timing:**
+* **Dawn and dusk are best** — the eye thing is real
+* **Cloudy or windy days** extend the productive window into midday
+* **After dark** is the secret window — bring a headlamp (red light to preserve night vision)
+
+**Honest expectation-setting:**
+* Boat anglers consistently outfish shore anglers on walleye
+* Shore-from-Potholes-SP walleye is doable but requires patience, presence at the right times, and casting at structure
+* Plan on a few hours of shore fishing producing **maybe 0–3 walleye for a beginner**
+* If you want to actually fill a stringer, rent a boat at Mar Don Resort
+
+**Cleaning + eating:**
+* Skin the fillets (don't scale — too much hassle for thin-skinned walleye)
+* Trim the **rib cage** out — bony
+* Trim the **lateral line** if you want to remove the dark "mud line" meat (mild flavor improvement)
+* **Pan-fry in butter** with light flour/breadcrumb dredge. That's it. Don't overthink it.
+* Walleye is on every "best-tasting freshwater fish" list for a reason.
+
 ### Seep Lakes within Desert WA (short drive)
 Created by irrigation seepage after the Columbia Basin Irrigation Project and Potholes Reservoir. **Mix of stocked trout, warmwater species, and quality fly-only options.**
 * **Desert Lake Chain** — Harris, Sedge, Tern, Dune lakes; rehabilitated 2010 specifically for rainbow trout
