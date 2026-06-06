@@ -16,43 +16,75 @@ Both 12g pumps cover waterfowl, mixed-bag pheasant, and any high-shot-count work
 
 **Use case:** dogless walking upland in shrub-steppe (Desert WA, Wenas, Yakima Canyon) — primarily quail with pheasant/chukar/Hun as bonus species. Light gun = less fatigue carrying all day = better shooting late in the day.
 
-### CZ 20g Comparison (entry-level Huglu-made)
+### CZ 20g Comparison (all Huglu-made, Turkey)
 
-| | **CZ Bobwhite G2 (SxS)** | **CZ Drake (O/U)** | **CZ Upland Ultralight (O/U)** |
-|---|---|---|---|
-| **Action** | Side-by-side | Over/under | Over/under (alloy receiver) |
-| **Weight** | ~6 lbs | ~6.5 lbs | **~6 lbs flat** (lightest) |
-| **Sight picture** | Two-bead, side-by-side barrels — adjustment required | Single sight plane — easier for most | Single sight plane |
-| **Triggers** | Double (front=right barrel, rear=left) — instant choke selection | Single selective trigger | Single selective trigger |
-| **Stock** | Classic English straight stock available | Pistol grip | Pistol grip |
-| **Ejection** | Extractors | Extractors | Extractors |
-| **Aesthetic** | Classic SxS, color case-hardened receiver | Standard modern upland | Modern, lighter feel |
-| **Learning curve** | Steeper | Easier | Easier |
-| **Resale market** | Smaller (SxS niche) | Largest | Mid (alloy O/U is uncommon) |
-| **Price (new)** | ~$700–800 | ~$700–800 | ~$800–900 |
+| | **CZ Bobwhite G2 (SxS)** | **CZ Drake (O/U)** | **CZ Upland Ultralight (O/U)** | **CZ Teal (O/U)** |
+|---|---|---|---|---|
+| **Action** | Side-by-side | Over/under | Over/under (alloy receiver) | Over/under |
+| **Weight (20g)** | ~6 lbs | ~6.5 lbs | **~6 lbs flat** (lightest) | **6.9 lbs** (heaviest) |
+| **Sight picture** | Two-bead | Single sight plane | Single sight plane | Single sight plane + mid rib (best) |
+| **Triggers** | Double (front=R, rear=L) | Single selective | Single selective | Single selective, **mechanical** (second barrel fires even if first fails) |
+| **Stock** | Classic straight grip option | Pistol grip | Pistol grip | Pistol grip |
+| **Receiver finish** | Color case-hardened | Standard blued | Modern alloy | **Gloss black chrome** |
+| **Tier** | Entry SxS | Entry O/U | Mid (alloy) | **Mid (Redhead Premier rebadge)** |
+| **Price (current)** | ~$700–800 new | ~$700–800 new | ~$800–900 new | **$550 at Cabela's** (vs $900–1100 for Redhead Premier proper) |
 
-### Decision Framework
+### ⚡ The Teal at $550 is the standout value
 
-**Bobwhite (SxS) if:**
-* You specifically want the classic SxS experience and aesthetic
-* You're comfortable with double-trigger discipline and two-bead sight picture
-* The gun matters as much as the bird
-* You'll keep it forever (resale not a concern)
+**The CZ Teal is the Cabela's-exclusive rebadge of the CZ Redhead Premier** — a higher-tier gun than the Drake. The only material differences from the Redhead Premier:
+* Receiver finish: **gloss black chrome** instead of silver
+* Cabela's brand exclusive (slightly different stock engraving)
+* Otherwise identical internals: mechanical trigger, mid rib + vent rib (better sight picture than Drake), better wood, 5 choke tubes
 
-**Drake (O/U) if:**
-* Easier learning curve matters
-* You may also shoot clays / sporting clays
-* You want best resale in case it doesn't click
-* You want practical over romantic
+**At $550 that's ~$400 off the Redhead Premier's normal price** — buying a mid-tier CZ at entry-tier money.
 
-**Upland Ultralight (O/U) if:**
-* Weight is your primary concern (all-day walking in heat)
-* You want single-sight-plane ease + lightest possible carry
-* Willing to pay ~$100 more for alloy receiver
+The catch: **at 6.9 lbs in 20g, it's heavier than the Drake (6.5) and notably heavier than the Upland Ultralight (6 lbs).** For dogless all-day walking in shrub-steppe, 0.5–1 lb adds up by sunset.
 
-### Honest Self-Calibration
+### Other 20g O/U options worth knowing
 
-Don't buy the Bobwhite just because it looks cool. If the two-bead sight picture + double triggers don't click, you'll miss birds, get frustrated, and hunt less. The Drake/Upland Ultralight is the safer bet for someone without prior SxS experience.
+For broader market context outside CZ:
+
+| | **Stoeger Condor** | **Yildiz O/U** | **Mossberg Silver Reserve** | **Tristar Hunter EX** | **Weatherby Orion** |
+|---|---|---|---|---|---|
+| **Price** | ~$450–550 | ~$450–650 | ~$500–700 | ~$600–700 | ~$1000 |
+| **Made in** | Turkey | Turkey | Turkey/Italy | Turkey | Turkey |
+| **Weight (20g)** | ~6 lbs | ~5.5–6 lbs | ~6 lbs | ~6 lbs | ~6.5 lbs |
+| **Quality tier** | Budget — basic but reliable | Budget Turkish, surprisingly light | Mid-budget | Mid-budget | Solid mid-tier |
+| **Notes** | Best cheap O/U if money is tight | Sold at Academy Sports, real value | Wide retail availability | Underrated, good fit | Heavier; "not pretty but solid" |
+
+**Premium tier** (for context, not your range): Browning Citori $1500+, Beretta 686 Silver Pigeon $2200+, Franchi Instinct SL ~$1300, Caesar Guerini ~$3500+.
+
+### Decision Framework (Updated)
+
+**CZ Teal @ $550 — the value pick:**
+* You're not weight-obsessed (0.5–1 lb heavier than alternatives)
+* You want **mid-tier internals at entry-tier money** — mechanical trigger, better rib setup, refined feel
+* You like the gloss black look (or don't care that it's different from the standard silver Redhead)
+* You'd otherwise spend $700 on the Drake — the Teal is objectively a better gun at less money
+
+**CZ Drake @ $700–800 — the standard O/U:**
+* You want simpler, more "standard" CZ O/U
+* You may want easier resale (Drake is a more common known quantity than the Cabela's-exclusive Teal)
+
+**CZ Upland Ultralight @ $800–900 — the lightweight pick:**
+* All-day walking matters most — you'll feel the 1 lb difference vs the Teal
+* Worth the $300+ premium over the Teal for the weight savings
+
+**CZ Bobwhite G2 @ $700–800 — the romantic pick:**
+* You specifically want the SxS experience
+* Aesthetic + tradition matter as much as performance
+
+**Stoeger Condor / Yildiz O/U @ $450–550 — the budget alternatives:**
+* If you'd buy the Teal but don't want to commit even $550 to a "trying it out" purchase
+* Real working guns, just less refined than the Teal
+
+### Honest Take on the Teal
+
+**At $550, the Teal probably wins the price/value question outright among CZ O/Us** — you're paying entry-tier money for mid-tier internals. The 6.9 lb weight is the real trade-off; for shrub-steppe walking (Desert WA's mostly flat-to-rolling terrain, not steep chukar canyons), this is tolerable. For Wenas rimrock chukar climbs it would matter more.
+
+**Go to Cabela's, mount the Teal, and shoulder/swing it.** Spec sheet says it's the value winner; only your face and shoulder can tell you if it fits. If it does, $550 is the buy.
+
+If you find it nose-heavy or the stock doesn't fit, **the Upland Ultralight is the obvious upgrade path** (lighter + alloy receiver + still easier sight picture than SxS).
 
 ### CZ Notes (apply to all three)
 
