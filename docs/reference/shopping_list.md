@@ -60,6 +60,7 @@ Compact, printable tackle reference organized by target species. Each line: **it
 **Yellow perch crossover** — same rod/reel/line works; just add smaller hooks (#6–10) and a slip bobber + jig + worm rig.
 
 **Bluegill / panfish crossover (Potholes shore + lowland lakes — verified Potholes-specific)**
+- **Aberdeen hooks #6 and #8** — REQUIRED for the standard bluegill bobber rig (your existing #10-14 hooks are too small for the bluegill rig)
 - **Leland's Trout Magnet starter kit** (jighead + body) — named-by-MarDon as the Potholes panfish slip-bobber bait
 - **Strike King Lil Suck'r** — second named-by-MarDon panfish bait at Potholes
 - Small slip bobbers — Potholes-verified rig style; complements the snap-on bobbers you already own
