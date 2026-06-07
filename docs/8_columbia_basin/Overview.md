@@ -51,11 +51,20 @@ Eastside continental climate — cool, mostly dry, and **windier than the westsi
 
 Beyond the two headline units, the broader Columbia Basin hunting landscape includes:
 
-* **Gloyd Seeps** — between Stratford and Moses Lake. WDFW unit; riparian/seep habitat, lower-pressure than the headline units. Useful as a "if Quincy/Desert are crowded, drive 20 min north" option.
-* **Lower Crab Creek Wildlife Area** — east of Desert WA, between Corfu and the Columbia River. Already mentioned as a fishing destination (Lenice, Nunnally) but also has upland bird habitat.
-* **Coulee Corridor** — around Banks Lake and Lenore Lake. Mix of WDFW lands; further north.
+### Quail hotspots (per older Columbia Basin intel, geographic fundamentals still valid)
+
+* **Lower Crab Creek (Lower Crab Creek Wildlife Area Unit)** — east of Desert WA, between Corfu and the Columbia River. Confirmed quail hotspot in addition to its known trout fishery (Lenice, Nunnally).
+* **Desert Wildlife Area** — covered in detail on its own page; #1 confirmed quail spot in this region for your trip.
+* **Gloyd Seeps** — between Stratford and Moses Lake. WDFW unit; riparian/seep habitat, lower-pressure than the headline units. "If Quincy/Desert are crowded, drive 20 min north" option.
+
+### Chukar corridor (per same older Columbia Basin intel)
+
+* **Coulee scabland corridor — Lake Lenore up to south end of Banks Lake.** This is the named chukar destination in the broader Basin per old hunter wisdom. Coulee scabland = rocky steep terrain = classic chukar country, matches the typical "rocky breaks + cheatgrass" pattern. North of the Desert WA / Potholes zone; would be a separate trip orientation.
+* **Columbia River breaks north of Vantage** — second chukar option; steep, classic dogless terrain.
+
+### Other named units
+
 * **Dry Falls unit** — south end of Banks Lake.
-* **Columbia River breaks north of Vantage** — chukar/Hun country; steep, classic dogless terrain.
 * **Royal Slope (Hunt by Reservation Program)** — structured permit-only access; submit application via WDFW if interested.
 
 ## Dogless Tactics That Apply Here
