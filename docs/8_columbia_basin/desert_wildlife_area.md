@@ -82,9 +82,22 @@ Two areas within the Desert Wildlife Area are **closed to all hunting and trappi
 * **Eastern part:** mostly sand / gravel / round rock soil; shrubsteppe vegetation bordered by irrigated farmland. Primarily rabbitbrush and needle and thread grass. **Flat to gently rolling, walkable.**
 * **Southern part (near O'Sullivan Dam):** mostly basalt outcroppings with big sage and bluebunch wheatgrass. **Rockier, mildly steeper, but not canyon country.**
 
+### Habitat Composition (detailed)
+
+Much of the area is **freshwater marshes, ponds, braiding channels, and small lakes.** Tracts of sand dunes and shrub-steppe make up the remainder of the landmass.
+
+**Riparian habitats are located along Frenchman Hills Road and Road C SE,** with several isolated stands of **Russian olive and willow** along the wetlands.
+
+The shrub-steppe is composed of typical plant communities of **sages, rabbitbrush, and bitterbrush** interspersed with various grasses and forbs.
+
+**⚡ Quail-hunt actionable from this:**
+* **Russian olive thickets** are textbook California quail magnets — they love the dense brushy cover next to water. Mark every Russian olive stand you see on satellite or in person.
+* **Frenchman Hills Road and Road C SE are the named riparian-access roads** per WDFW description — these are your two primary scouting drives for quail-productive cover.
+* **Willow stands along the wetlands** are secondary high-percentage quail spots.
+
 **Compared to Wenas/Umtanum** (classic rimrock canyon country with 30–60% slopes): this is dramatically less punishing. Desert WA is walkable shrub-steppe with open visibility — good for dogless glassing-and-walking tactics, no climbing required.
 
-**To preview before committing:** Google Street View along **Road M SW**, **Frenchman Hills Road**, or **Dodson Road** for visual reconnaissance. Google Earth 3D terrain view of the same area shows the overall flatness.
+**To preview before committing:** Google Street View along **Frenchman Hills Road** or **Road C SE** (the riparian-access roads) and **Road M SW** or **Dodson Road**. Google Earth satellite shows the Russian olive thickets as dark green clumps along the wasteway corridors — visible from above.
 
 ## Scouting Report
 
@@ -105,13 +118,20 @@ Two areas within the Desert Wildlife Area are **closed to all hunting and trappi
 * **Frenchman Hills Wasteway corridor** — parallel feature, same SE-trending irrigation drainage; similar riparian habitat. Same productivity logic.
 * **Frenchman Regulated Access Area** — has WDFW-planted food plots intended for waterfowl; the adjacent cover holds upland birds too.
 
-**Logical "good bet" zones (high-percentage by habitat, not specific hunter reports):**
+**Named riparian-access roads (per WDFW habitat description):**
 
-* **Where Fidesco-Harris Access road meets the wasteways or pond edges** — riparian-sage interface is the textbook quail concentration zone. Worth scouting.
+* **Frenchman Hills Road** — one of the two named roads with riparian habitat. Drive it, walk in at promising stands.
+* **Road C SE** — second named riparian-access road. The wasteway / Russian olive / willow thicket cover is here.
+
+**Logical "good bet" zones (high-percentage by habitat type):**
+
+* **Russian olive thickets along the wasteways** — textbook California quail magnets; visible as dark green clumps on satellite
+* **Willow stands along the wetland edges** — secondary high-percentage cover
+* **Where any access road meets the wasteways or pond edges** — riparian-sage interface is the verified quail concentration zone
 * **Mid-slope transitions** where sage flat meets the wasteway riparian — quail move between water and cover here at dawn/dusk
 * **Brushy ditch banks** along access roads — small coveys hold tight
 
-**Gap honestly flagged:** I don't have specific hunter-report intel for "end of Fidesco-Harris road" or other point-specific honey holes. Field experience and a phone call to **WDFW District 5 (Ephrata): (509) 754-4624** is the way to get current spot-specific intel — they'll talk to hunters and have a sense of where birds are this season.
+**Gap honestly flagged:** I don't have specific hunter-report intel for "end of [road X]" honey holes. Field experience and a phone call to **WDFW District 5 (Ephrata): (509) 754-4624** is the way to get current spot-specific intel — they'll talk to hunters and have a sense of where birds are this season.
 
 ### ⚠ Game Reserves to AVOID (closed to hunting)
 
