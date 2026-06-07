@@ -85,7 +85,7 @@ Based on Omnia Fishing patterns + MarDon-area reports. Not generic guesses.
 * **Wax worms** — for variety; also available locally
 * Colors: lean **purple** and natural-baitfish for jigs/plastics
 
-You already own: small hooks (#8–12 from shopping list), BB split shot, 6 lb mono / 4 lb fluoro — all fine.
+**You already have or will buy:** BB tin split shot ✓ (owned), 6 lb mono / 4 lb fluoro ✓ (owned), snap-on bobbers ✓ (owned). **Aberdeen hooks #6 and #8** must be purchased — they're explicitly on the [Shopping List](../reference/shopping_list.md) under bluegill. The trout-section #10–14 hooks you already own are too small for bluegill rigs.
 
 ### June timing
 
