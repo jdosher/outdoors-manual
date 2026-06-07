@@ -10,6 +10,16 @@ The Columbia Basin — Grant and Adams counties in central Washington — is the
 - **Bonus species mix:** pheasant, chukar, Hungarian partridge, mourning dove (early season), waterfowl on the seep lakes
 - **Fishing combo:** Potholes Reservoir is a serious walleye/bass/perch fishery right at the Potholes SP camp; the Desert WA seep-lake chain holds stocked trout and warmwater species; Lenice/Nunnally to the east are quality trout water. See the [Desert WA page](desert_wildlife_area.md#fishing-combo-opportunity) for details.
 
+## WA Quail Geography (Historic + Current)
+
+**Yakima and Grant counties consistently yield the highest quail harvests in the state.** Different intel sources triangulate on the same three productive cover types:
+
+* **Russian olive thickets** — dense brushy cover near water; California quail magnets
+* **Irrigation sloughs** — water + cover at the ag fringe
+* **Riparian edges near agricultural land** — the transition where wet meets dry meets crop
+
+**Current calibration (post-2024 fires):** Yakima County (Wenas Wildlife Area) is historically #1 but the **2024 Black Canyon Fire burned 10,000+ acres in GMUs 340 & 342**, including much of the Wenas quail habitat. **For 2026, Grant County (Desert WA, Lower Crab Creek, Gloyd Seeps, Upland Restoration parcels) is the practical primary.** See the [Yakima/Wenas Region](../3_eastern_wa/wenas_wildlife.md) for the historic context and [Umtanum/Yakima Canyon](../3_eastern_wa/umtanum_yakima_canyon.md) for the reality-check on that recovery.
+
 ## The Two Headline Wildlife Areas
 
 | Area | Acres | Trailer access in quail season | Best for |
