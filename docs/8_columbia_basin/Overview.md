@@ -51,11 +51,19 @@ Eastside continental climate — cool, mostly dry, and **windier than the westsi
 
 Beyond the two headline units, the broader Columbia Basin hunting landscape includes:
 
-### Quail hotspots (per older Columbia Basin intel, geographic fundamentals still valid)
+### Quail hotspots (per Columbia Basin intel — multiple sources agree)
 
 * **Lower Crab Creek (Lower Crab Creek Wildlife Area Unit)** — east of Desert WA, between Corfu and the Columbia River. Confirmed quail hotspot in addition to its known trout fishery (Lenice, Nunnally).
 * **Desert Wildlife Area** — covered in detail on its own page; #1 confirmed quail spot in this region for your trip.
 * **Gloyd Seeps** — between Stratford and Moses Lake. WDFW unit; riparian/seep habitat, lower-pressure than the headline units. "If Quincy/Desert are crowded, drive 20 min north" option.
+* **Upland Restoration Unit (Columbia Basin Wildlife Area)** — **specifically managed for upland habitat restoration** = quail/pheasant by design. Multiple scattered properties:
+    - 6 properties between Quincy and Ephrata off Hwy 28 W
+    - 2 properties within 12 mi SE of Moses Lake (off Road N NE, and N of I-90 west of Road U NE) — close to Potholes SP base
+    - 11 properties within 2-7 mi around Warden + 2 in Adams County
+    - 1 property 4 mi NE of Royal City off Road 11.2 SW
+    - **⚠ "Public access is limited"** per WDFW — verify each parcel via OnX/Gaia + WDFW before driving in. Some are walk-only, some have specific access points.
+    - **The Moses Lake-area parcels are worth checking** as alternate scouting from your Potholes SP base.
+* **Potholes Reservoir Unit (waterfowl-mixed)** — adjacent to Desert WA; mixed waterfowl + upland; covered separately as a fishing destination on [Potholes Reservoir](potholes_reservoir.md)
 
 ### Chukar corridor (per same older Columbia Basin intel)
 
