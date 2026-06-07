@@ -67,7 +67,12 @@ Based on Omnia Fishing patterns + MarDon-area reports. Not generic guesses.
 ### RIGS that work (verified)
 
 * **Slip-bobber rig tipped with Trout Magnet or Lil Suck'r** — the MarDon-specific recommendation for Potholes panfish
-* **Hook + split shot + small bobber + worm** — starter rig
+* **Standard starter bobber rig** (specific build):
+    - **Light rod, 4–6 lb test line** (your Fenwick 6.5' Light w/ 4 lb fluoro leader fits; wife's Shakespeare 5.5' combo w/ 6 lb mono also fits)
+    - **Small Aberdeen hook, size #6 to #8**
+    - **Small bobber 2–3 feet above the hook** (snap-on or slip)
+    - **Bait the hook with worm, wax worm, or Trout Magnet body**
+    - **One small split shot 6" above the hook** for sink rate
 * **Drop shot + micro jig** — summer pattern around dock posts (state park area)
 * **Bobber + micro jig over visible beds** — spawn
 
