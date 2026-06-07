@@ -95,7 +95,34 @@ Two areas within the Desert Wildlife Area are **closed to all hunting and trappi
     - **Wetlands and seep lakes** — waterfowl (separate license/stamps required for ducks/geese)
 * **Access roads (per WDFW):** Road M SW, Frenchman Hills Road, Dodson Road, Adams Road, Fidesco-Harris Access, Road I SW
 * **Vehicle access:** Permitted year-round; verify any temporary fire/habitat closures via WDFW before going
-* **Combo opportunity:** Multiple WDFW water access sites for fishing within the unit — 239 Drain, Beda Lake, Blythe, Crab Creek, Dodson & Winchester, Fedesco-Harris, Frenchman Hills Lake, Frenchman Hills Wasteway, Glen Williams, Lind Coulee, Medicare Beach, Outlet, Road C & Frenchman, Sampson's Pit, Warden Outfall
+
+### Best Access Zones (what's verified vs what isn't)
+
+**Verified productive corridors (per WDFW + Oregon DFW guide referencing the Desert Unit):**
+
+* **Winchester Wasteway corridor** — irrigation drainage that meanders southeast across several miles of the Desert Unit before emptying into SW Potholes Reservoir. "Public lands along both Frenchman and Winchester wasteway should hold ducks" per Oregon DFW's Columbia Basin guide — and the riparian-sage edges along the wasteways are exactly the quail concentration zones WDFW District 5 calls out as the best chance for coveys.
+    * **Don't confuse:** the Winchester *Wasteway* (south of I-90, in Desert WA, huntable) vs the Winchester *Reservoir Wildlife Area Unit* (separate WDFW unit, north of I-90) vs the **Winchester Game Reserve** (CLOSED to hunting — see above)
+* **Frenchman Hills Wasteway corridor** — parallel feature, same SE-trending irrigation drainage; similar riparian habitat. Same productivity logic.
+* **Frenchman Regulated Access Area** — has WDFW-planted food plots intended for waterfowl; the adjacent cover holds upland birds too.
+
+**Logical "good bet" zones (high-percentage by habitat, not specific hunter reports):**
+
+* **Where Fidesco-Harris Access road meets the wasteways or pond edges** — riparian-sage interface is the textbook quail concentration zone. Worth scouting.
+* **Mid-slope transitions** where sage flat meets the wasteway riparian — quail move between water and cover here at dawn/dusk
+* **Brushy ditch banks** along access roads — small coveys hold tight
+
+**Gap honestly flagged:** I don't have specific hunter-report intel for "end of Fidesco-Harris road" or other point-specific honey holes. Field experience and a phone call to **WDFW District 5 (Ephrata): (509) 754-4624** is the way to get current spot-specific intel — they'll talk to hunters and have a sense of where birds are this season.
+
+### ⚠ Game Reserves to AVOID (closed to hunting)
+
+* **Winchester Game Reserve** (within Desert WA) — closed to all hunting and trapping
+* **Frenchman Hills Game Reserve** (within Desert WA) — same
+
+These are distinct from the wasteways of the same name. **Mark exact boundaries on GPS before hunting** — trespass into a closed reserve is a citable offense regardless of intent.
+
+### Combo Fishing Opportunity
+
+Multiple WDFW water access sites for fishing within the unit — 239 Drain, Beda Lake, Blythe, Crab Creek, Dodson & Winchester, Fedesco-Harris, Frenchman Hills Lake, Frenchman Hills Wasteway, Glen Williams, Lind Coulee, Medicare Beach, Outlet, Road C & Frenchman, Sampson's Pit, Warden Outfall. See [Potholes Reservoir page](potholes_reservoir.md) for tackle and species.
 
 ## Logistics
 
