@@ -9,6 +9,9 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - search.suggest
+markdown_extensions:
+  - md_in_html
+  - attr_list
 nav:
   - Home: index.md
   - West Cascades:
@@ -62,4 +65,5 @@ nav:
     - Shopping List (by Species): reference/shopping_list.md
     - Shotguns (Inventory + Upland Pick): reference/shotguns.md
     - Non-Toxic Ammo (by Species + Gauge): reference/ammo.md
+    - Fishing Knots (Field Card): reference/fishing_knots.md
     - Dark Sky / Astronomy Sites: reference/dark_sky_sites.md
