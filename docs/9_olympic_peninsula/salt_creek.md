@@ -36,7 +36,7 @@ So, in plain terms:
 
 ## Prime Shore Spots
 
-* **Crescent Bay beach (west of Tongue Point)** — the main shore-casting beach, reached by the short walk out from the small lot near (private) Crescent Beach. This is the salmon and surfperch water, and it sits **west of the Freshwater Bay closure** (see salmon note). Best on tide changes.
+* **Crescent Bay beach (west of Tongue Point)** — the main shore-casting beach, and it's the **private half-mile beach fronting Crescent Beach & RV Park** — i.e. right out the door of our campsite (see Camping/Logistics). This is the salmon and surfperch water, and it sits **west of the Freshwater Bay closure** (see salmon note). Best on tide changes.
 * **Tongue Point rocks** — dramatic structure and tidepools. Fishy-looking, but **rockfish are closed** and lingcod is out of season in summer; mind the tide and slick rock. Primarily a look-don't-take tidepool spot.
 * **Beach gravel along the bluff** — surfperch and flounder/sole on a falling tide.
 * **Salt Creek mouth / lagoon** — sea-run cutthroat stage near the estuary; the creek itself is freshwater (see below). Respect the freshwater salmon closure.
@@ -78,14 +78,21 @@ Salt Creek is a small coastal stream, not a destination trout fishery, but it ru
 * **Trout:** No Salt Creek–specific special rule was located. Coastal cutthroat streams commonly require **selective gear (single barbless, no bait)** and **release of wild trout.** Safest assumption: **catch-and-release, selective gear.** ⚠️ **Verify the special-rules listing for "Salt Creek (Clallam)" in the current pamphlet before keeping anything.**
 * **License:** WA freshwater (or combo) license.
 
+## Camping — Crescent Beach & RV Park (our basecamp)
+
+We're staying at the **private** **Crescent Beach & RV Park** on Crescent Bay — **not** the county park next door. It fronts its own **half-mile private sandy beach**, which is the prime shore-casting/salmon/surfperch water (west of Tongue Point, outside the Freshwater Bay closure), so the good beach is right at the campsite.
+
+* **Sites:** tent, partial & full-hookup RV, plus 2 cabins; front-row full-hookup sites have the clearest water/Strait views (Vancouver Island on clear days).
+* **Amenities:** picnic table + firepit per site, Wi-Fi, laundry, restrooms, hot showers, small store.
+* **Reserve:** private business, book direct — [crescentbeachrv.com](https://www.crescentbeachrv.com/). Summer weekends fill; reserve ahead.
+* **Location:** ~0.5 mi **west** of Salt Creek Recreation Area — easy walk east to the county park's tidepools (Tongue Point), day-use, and WWII gun-battery ruins.
+
 ## Logistics
 | Attribute | Detail |
 | :--- | :--- |
-| **Park** | Salt Creek Recreation Area — **Clallam County** park (not a state park) |
-| **Pass Required** | **No Discover Pass needed** (county park). Camping is by reservation/fee. |
-| **Camping** | ~90 sites incl. bluff sites over the Strait; reserve ahead in summer |
-| **Facilities** | Restrooms, water, day-use areas, tidepools, WWII gun-battery ruins |
-| **Access note** | Shoreline access is on the **east side of Salt Creek**; the west side (Crescent Beach) is private |
+| **Camping (us)** | **Crescent Beach & RV Park** (private), on Crescent Bay — see above. Book direct, not a county/state reservation. |
+| **County park next door** | Salt Creek Recreation Area — **Clallam County** park (not a state park); ~90 sites. **No Discover Pass needed.** Day-use tidepools + ruins. |
+| **Beach access** | Direct via the RV park's **private Crescent Bay beach** (the main fishing beach). County park shoreline access is on the **east side of Salt Creek**. |
 | **Licenses** | WA saltwater + freshwater (combo); **salmon Catch Record Card**; freshwater trout license for the creek |
 | **Best window** | Coho late Aug–Sept; surfperch/flatfish all summer on falling tides |
 
