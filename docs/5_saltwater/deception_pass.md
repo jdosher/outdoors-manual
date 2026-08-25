@@ -15,7 +15,9 @@ Deception Pass is one of the few spots in Washington where you can catch a hard-
 
 [Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Deception+Pass+State+Park+WA)
 
-**Tide / current chart:** [NOAA Deception Pass currents →](https://tidesandcurrents.noaa.gov/noaacurrents/Predictions?id=PUG1515_1)
+**Tide heights (use this for West/North Beach):** [NOAA Bowman Bay, Deception Pass SP — station 9448614 →](https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9448614)
+
+**Narrows currents (channel only):** [NOAA Deception Pass (Narrows) — station PUG1701 →](https://tidesandcurrents.noaa.gov/noaacurrents/Predictions?id=PUG1701_1)
 
 **WDFW Marine Area 8-1 page:** [MA 8-1 →](https://wdfw.wa.gov/fishing/locations/marine-areas/deception-pass-hope-island-skagit-bay)
 
@@ -25,6 +27,33 @@ Deception Pass is one of the few spots in Washington where you can catch a hard-
 * **North Beach** — north side of the pass; calmer than West Beach, productive for coho and pinks.
 * **Rosario Beach / Bowman Bay** — quieter, good for sea-run cutthroat and surfperch when the salmon scene is crowded.
 * **Note:** The rocks directly below the bridges look fishy and are *very* dangerous — strong currents, slick rocks, fall hazards. Stick to the beaches.
+
+## Tides & Timing (Shore Coho)
+
+**Fish within an hour or two of a tide change — high *or* low.** Local sources agree on the *change*, not on high vs. low. Don't assume "fish the high": that's general Puget Sound beach advice, and it's much stronger for bottom-oriented fish (surfperch, flounder) than for coho, which are pelagic cruisers and run tight to shore at both West and North Beach through the whole cycle.
+
+Ranked by how much they actually matter:
+
+1. **Exchange size — the biggest lever.** A 5 ft exchange fishes well; a 10 ft exchange is a fight you will usually lose from the beach. Check the day's spread before committing to the drive.
+2. **Light.** First and last hour of daylight. A tide change landing near sunrise on a small exchange is the combination worth planning a trip around.
+3. **Direction.** Lean toward the incoming side of the change.
+4. **High vs. low.** Weakest factor of the four — treat both changes as fishable.
+
+**Where you stand changes the math.** West Beach sits outside the pass facing Rosario Strait; it's a normal beach fishery and the 6–8 kt narrows currents mostly don't reach it. North Beach faces into the channel and *is* current-dominated — there, slack matters much more.
+
+!!! note "Best dawn windows, rest of 2026 season (through Oct 12 close)"
+    Tide change within ~30 min of sunrise, on the smallest exchanges:
+
+    | Date | Change | Sunrise | Exchange |
+    | :--- | :--- | :--- | :--- |
+    | Mon 8/31 | 06:40 H | 06:26 | 5.5 ft |
+    | Sun 9/13 | 06:08 H | 06:44 | **4.5 ft** |
+    | Mon 9/21 | 06:49 L | 06:55 | 6.5 ft |
+    | **Mon 9/28** | **06:02 H** | **07:05** | **3.8 ft** |
+
+    Mon 9/28 is the standout of the season. Recompute from station 9448614 if plans shift.
+
+**Still unsettled:** whether high genuinely out-produces low at these two beaches. No Deception Pass source ranks them. Settle it with local intel — [NWFR Area 8-1 reports](http://northwestfishingreports.com/Reports/ReportList/11) during the run, or John's Sporting Goods in Everett.
 
 ## Species & Regulations (2026, MA 8-1)
 
