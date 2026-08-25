@@ -41,6 +41,17 @@ Ranked by how much they actually matter:
 
 **Where you stand changes the math.** West Beach sits outside the pass facing Rosario Strait; it's a normal beach fishery and the 6–8 kt narrows currents mostly don't reach it. North Beach faces into the channel and *is* current-dominated — there, slack matters much more.
 
+!!! danger "Read the right tide station — they differ by ~90 minutes"
+    The pass throttles the exchange, so the Skagit Bay side runs well behind the Rosario Strait side. Same day, same tide:
+
+    | Station | Low | Side |
+    | :--- | :--- | :--- |
+    | **Bowman Bay 9448614** | **09:39** | **west / outside — use for West & North Beach** |
+    | Cornet Bay 9447995 | 10:59 | east / inside |
+    | Yokeko Point 9448601 | 11:11 | east / inside |
+
+    Most published "Deception Pass" tide tables key to **Yokeko Point**, which is on the wrong side for the park beaches. Using it puts you on the sand ~90 min late.
+
 !!! note "Best dawn windows, rest of 2026 season (through Oct 12 close)"
     Tide change within ~30 min of sunrise, on the smallest exchanges:
 
